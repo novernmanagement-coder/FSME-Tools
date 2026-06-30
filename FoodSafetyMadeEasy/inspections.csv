@@ -1,0 +1,1045 @@
+State,StateCode,County,Establishment,Address,City,ZIP,Phone,LastInspection,Priority,InspectionURL,LastUpdated
+New York,NY,Steuben,Avoca Central School,17-29 Oliver Street,Avoca,14809,,2025-07-23,High,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Tlaquepaque,347 North Avenue,New Rochelle,10801,,2025-10-16,High,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Salesian H.S. - Cafeteria,148 Main Street,New Rochelle,10801,,2025-04-04,High,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Sammy'S Ny Bagels,110 Centre Avenue,New Rochelle,10801,,2025-09-29,High,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Aloha Krab Cajun Seafood Boil & Bar,10449 Destiny Usa Drive,Syracuse,13204,,2026-05-01,High,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Regal New Roc,33 Lecount Place,New Rochelle,10801,,2025-03-31,High,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Delaware,French Woods Festival,199 Bouchoux Brook Road,Hancock,13783,,2025-07-22,High,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ulster,"Woodstock Pub, The",17 Mill Hill Road,Woodstock,12498,,2026-04-10,High,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Greene,Greenvilleland Llc,150 Ingalside Road,Greenville,12083,,2025-07-23,High,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Greene,Grace Manor Christian Center,907 Red Mill Road,Greenville,12083,,2025-06-24,High,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+Indiana,IN,Hamilton,5 de Mayo Mexican Restaurant,100 W. Main Street,Arcadia,,,2023,High,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Amber Indian Restaurant,12510 N. Meridian Street,Carmel,,,2023,High,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Asian Grill,74 N. 9th Street,Noblesville,,,2023,High,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Biryani Hut,14350 Mundy Drive Suite #700,Noblesville,,,2023,High,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,La Cascada,400 W. Jackson St,Cicero,,,2023,High,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,New China Buffet,17429 Carey Road,Westfield,,,2023,High,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Papa Fattoush Restaurant,15 E Main Street,Carmel,,,2023,High,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Red Habanero,16771 Clover Road,Noblesville,,,2023,High,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Westfield High School,,Westfield,46074,,2023,High,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+New York,NY,Sullivan,Mezcla Deli Corp.,10  School  Street,Liberty,12754,,2026-02-04,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Ridgeway School,225 Ridgeway,White Plains,10605,,2026-02-12,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Subway/Auntie Ann'S,470 Route 211 East,Middletown,10940,,2026-05-26,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Clinton,Nccs-Jr./Sr. High School Caferteria,103 State Route 276,Champlain,12919,,2026-05-18,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Jack'S Barcelona Drive-In,Po Box 101,Westfield,14787,,2026-01-23,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Otsego,Sip & Sail Tavern,80 Water Street,Oneonta,13820,,2025-05-13,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Cohoes Multi-Service Senior Ctr.,10 Cayuga Plaza,Cohoes,12047,,2026-01-09,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Montgomery,Iroquois Lanes,192 Erie Boulevard,Canajoharie,13317,,2026-05-13,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Jefferson,Liola'S Pizzeria,506   Alexandria Street,Carthage,13619,,2025-09-05,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Sullivan,Chezky'S Pizza Llc,14 Green Unit 1 Avenue,Woodridge,12789,,2025-07-31,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Su Goldstein Student Center Dining,Skytop Road,Syracuse,13244,,2026-04-23,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tompkins,Sicilian Delight Pizzeria,40 Catherwood Road,Ithaca,14850,,2026-06-02,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Otsego,J & D'S Wagon Wheel,4918 State Hwy 28,Cooperstown,13326,,2025-06-11,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Sullivan,Barryville Hotel,45 Yulan Barryville Rd,Barryville,12719,,2026-04-02,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Jefferson,Tarwater'S Twists-The Blizzard Barn,27957 East Nys Route 342,Black River,13612,,2025-06-16,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Bagel Mentch,176 Middle Neck  Road,Great Neck,11021,,2025-05-14,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Greene,Good Tidings Fellowship,739 Sutton Road,Cornwallville,12418,,2024-08-23,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Ossining Nutrition Center,95 Broadway,Ossining,10562,,2026-04-29,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,El Rey Del Monfongo & Bistec Restaur,136 Elm Street,Yonkers,10701,,2025-10-28,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Fulton,Starlite Lanes,9 Montgomery  Street,Gloversville,12078,,2024-08-22,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Froggy'S Ii,253 Route 100,Somers,10589,,2026-01-10,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,York (The),247 West Fayette Street,Syracuse,13202,,2025-11-19,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Newfane Elementary School,2909 Transit Road,Newfane,14108,,2026-03-04,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chemung,Roundin' Third Sports Grill,255 West Water Street,Elmira,14901,,2026-03-25,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Bagel House,2664 Long Beach  Road,Oceanside,11572,,2025-10-31,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Lotus Garden,345 Conklin Street,Farmingdale,11735,,2026-02-13,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chemung,Elmira High School Cafeteria,777 South Main Street,Elmira,14904,,2026-03-02,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Hofstra University - Au Bon Pain,116 Hofstra University,Hempstead,11550,,2024-04-19,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Greene,Windham Mountain Inn,137 County Route 12,Windham,12496,,2024-11-05,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ulster,Pasquale'S Pizza & Restaurant,248 Main Street,New Paltz,12561,,2026-03-13,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,The Cooler Bar & Grill,114 West Main Street,Sherman,14781,,2026-03-12,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Puebla Corner,49 Lake Street,White Plains,10604,,2026-05-28,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Sullivan,Yiasou,1980 State Route 52,Liberty,12754,,2025-09-09,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,No. 1 Kitchen He,Route 6 And Lee Boulevard,Jefferson Valley,10535,,2025-10-10,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Sullivan,Sullivan West-Jeffersonville Campus,33 Schoolhouse Road,Jeffersonville,12748,,2026-01-23,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Genesee,Taco Bell (Store 17313),413 West Main Street,Batavia,14020,,2026-01-26,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Warren,Biscotti Brothers Cafe,One Canada Street,Lake George,12845,,2025-06-13,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Sullivan,Camp Mayin Tohar - Fallsburg,605 Budd  Road,Woodbourne,12788,,2025-08-11,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Betty'S Grill,215 Main Street,North Tonawanda,14120,,2026-06-24,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cortland,Auxiliary Services Corp.,15 Neubig Rd.,Cortland,13045,,2026-05-08,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Columbia,M.C.S. Elementary,102 Harry Howard Avenue,Hudson,12534,,2026-04-27,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Essex,Whiteface Mountain,5021 Route 86,Wilmington,12997,,2026-02-09,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Saratoga,Jimmy'S Pizza & Pasta,31 Kendall Way,Malta,12020,,2026-03-26,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,"Cheesecake Factory, The",1504 Old Country Road,Westbury,11590,,2026-01-21,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Popeyes Louisiana Kitchen,130 Township Boulevard,Camillus,13031,,2026-06-12,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wayne,Captain Jacks Goodtime Tavern,8505 Greig Street,Sodus Point,14555,,2026-05-05,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Livingston,Dontonio'S Pizza,303 East Main Street,Avon,14414,,2026-02-26,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Hofstra - Bits & Bytes,1000 Fulton Avenue,Hempstead,11550,,2024-09-17,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Lewis,Dragon House 7508 Inc,7508 South State Street,Lowville,13367,,2026-04-02,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Knights Of Enchanted Dreams,104 West Second Street,Jamestown,14701,,2025-12-18,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Empanada Shop,115 West Commercial Street,East Rochester,14445,,2026-01-29,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chemung,Beecher School,310 Sullivan Street,Elmira,14901,,2026-01-20,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Lewiston-Porter Middle School,4061 Creek Road,Youngstown,14174,,2026-03-24,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Jefferson,Josie'S Little Pizzeria,19 Church Street,Alexandria Bay,13607,,2025-07-17,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Schenectady,Brueggers Bagels,1634 Union Street,Schenectady,12309,,2025-02-25,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Peppino'S Pizza,80 Route 6,Baldwin Place,10505,,2025-01-16,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Fulton,Mayfield Firemens Association,13-17 School Street,Mayfield,12117,,2022-08-19,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Food Trades Program Boces Cca Prog,2850 N Jerusalem Road,Wantagh,11793,,2023-03-30,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Montgomery,Domino'S Pizza,43 Market Street,Amsterdam,12010,,2025-01-23,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,North Rockland High School,106 Hammond Road,Thiells,10984,,2025-07-10,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Steuben,Hornell Area Family Ymca,18 Center Street,Hornell,14843,,2026-06-03,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,St Lawrence,Royal India Grill,38 Market Street,Potsdam,13676,,2026-06-02,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Dutchess,Cilantro Mexican Restaurant,986 Main Street,Fishkill,12524,,2026-02-18,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Steuben,Wooden Nickel,18 Liberty Street,Bath,14810,,2026-06-16,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Clinton,El Dorado,578 State Route 3,Plattsburgh,12901,,2026-05-27,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Herkimer,Alamo Bar & Grill,8773 South Main Street,Poland,13431,,2026-04-29,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cortland,Crisol,89 Main Street,Cortland,13045,,2026-03-05,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Livingston,Mei Ho,3163 State Street,Caledonia,14423,,2026-05-20,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Tony'S Pizzeria,3899 Oneida Street,"Washington Mills, Ny",13479,,2026-01-29,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Capital 1 Fried Chicken,108 Central Avenue,Albany,12206,,2026-05-05,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Time Out Sports Cafe,616 South Oyster Bay  Road,Hicksville,11801,,2026-06-09,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Jefferson,South Jeff Co. Memorial Vfw 5344,3 Vfw Drive,Adams,13605,,2025-08-13,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Dunkirk Veterans Wwii,216 Lake Shore Dr. E,Dunkirk,14048,,2026-05-08,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Copson House,401 New Scotland Avenue,Albany,12208,,2026-04-02,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Steuben,Mountain View Inn,34 Main Street,Atlanta,14808,,2026-05-21,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Montgomery,William B. Tecler School,210 Northern Boulevard,Amsterdam,12010,,2025-07-23,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Allegany,Aces Food Court,Upper College Drive,Alfred,14802,,2026-02-24,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Boys & Girls Club Of N. Westchester,351 Main Street,Mount Kisco,10549,,2025-07-10,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Sapori By Antonio,5962 State Route 31,Cicero,13039,,2026-04-09,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Jack'S Pizza,165 Long Beach Road,Island Park,11558,,2025-11-10,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Applebee'S Neighborhood Grill & Bar,938 South Broadway,Hicksville,11801,,2025-08-28,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Franklin,Loyal Order Of Moose,176 Broadway Street,Saranac Lake,12983,,2026-02-27,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Pehquenakonck Country Club - Snack B,101 Bloomerside Road,North Salem,10560,,2025-08-26,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Fulton,Broadalbin-Perth Jr/Sr High School,100 Bridge Street,Broadalbin,12025,,2025-10-06,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Youngs Chinese Sushi,350 South Broadway,Tarrytown,10591,,2025-11-20,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Steuben,Steuben Sr Dinner Club/Corning #1,1 Park Lane,Corning,14830,,2026-02-26,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Clinton,Peru Central High School Cafeteria,17 School Street,Peru,12972,,2025-08-13,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,It'S Greek To Me,127 Jackson Avenue,Syosset,11791,,2026-06-16,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Dunkirk Elks Club #922,428 Central  Avenue,Dunkirk,14048,,2024-12-17,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Dinardo'S Restaurant,76 Westchester Avenue,Pound Ridge,10576,,2026-01-16,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Lena Restaurant,1783 Dutch Broadway,Elmont,11003,,2025-10-08,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Lakewood Cinema Eight,171-3 W Fairmount Ave,Lakewood,14750,,2025-01-17,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Fulton,Gloversville Palace Diner,62 South Main Street,Gloversville,12078,,2025-12-12,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Yonkers B.O.E. - Robert C. Dodson Sc,105 Avondale Road,Yonkers,10710,,2026-02-26,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Jo Jo Apples Cafe,85 Lido  Boulevard,Point Lookout,11569,,2026-05-12,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cattaraugus,Rafi'S Kitchen,800 Wayne Street,Olean,14760,,2025-07-08,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Lakewood Rod & Gun Club Fse,433 East Terrace Avenue,Lakewood,14750,,2026-06-24,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Subway 51072,501 Seventh North Street,Liverpool,13088,,2026-05-22,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,St Lawrence,Hoof And Horn Eatery,32 Market Street,Potsdam,13676,,2025-10-16,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Across The Hall Cafe,258 East Water Street,Syracuse,13202,,2026-05-26,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Genesee,Tim Hortons,20 East Main Street,Batavia,14020,,2026-02-18,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Livingston,Lakeville Fire Department,5939 Stone Hill Road,Lakeville,14480,,2026-02-10,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Greene,Shamrock House,2388 Route 145,East Durham,12423,,2026-03-06,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Seneca,Romulus Central School Summer Feed,5705  Main Street,Romulus,14541,,2025-07-22,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Dutchess,Double O Grill - (Wappinger),1536 Route 9,Wappingers Falls,12590,,2026-04-13,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Youngstown Volunteer Fire Company,625 Nancy Price  Drive,Youngstown,14174,,2025-11-10,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Schenectady,Fortune Cookie,3333 Consaul Road,Niskayuna,12309,,2026-01-15,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Uncommon Grounds - 1225 Western Ave,1225 Western Avenue,Albany,12206,,2026-04-27,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Jefferson,Castle Ice Cream/Car Wash,750 James Street,Clayton,13624,,2025-08-25,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Schuyler,Pudgies Pizza,601 North Franklin Street,Watkins Glen,14891,,2026-01-29,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Carvel #1220,262 Saw Mill River Road,Elmsford,10523,,2026-01-16,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Rxr Plaza Cafeteria,314 Rxr Plaza,Uniondale,11553,,2025-04-21,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Sullivan,Liberty Middle School,115 Buckley Street,Liberty,12754,,2026-01-15,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Genesee,Alexander Central High,3314 Buffalo Street,Alexander,14005,,2026-04-24,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Longhorn Steakhouse #5511,140 Township Boulevard,Camillus,13031,,2026-04-20,Medium,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+Indiana,IN,Hamilton,AMOCO,2299 Greenfield Ave.,Noblesville,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Boathouse,409 West Jackson Street,Cicero,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Cabos Mexican Grill & Bar,202 W. 161st Street,Westfield,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Firebirds Wood Fired Grill,9611 N Meridian Street,Indianapolis,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Fresh Indian Grill,1420 W. Main Street Suite D,Carmel,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Grindstone Public House,101 N. 10th St.,Noblesville,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Indian Groceries & Kitchen,14350 Mundy Drive,Noblesville,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Jersey Mikes Subs #11014,2271 Pointe Parkway,Carmel,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Korean BBQ & Chicken,214 E. Main Street,Westfield,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,La Hacienda,12480 N Meridian St.,Carmel,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Le Peep Restaurant,200 S. Rangeline Ste 115,Carmel,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Lincoln Square Pancake House,3186 E. State Rd 32,Westfield,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Little Caesars Pizza,152 West Logan St.,Noblesville,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Maria's Mexican Grill,205 Sheridan Road,Noblesville,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Puccini's,2510 Harleston Street,Carmel,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Rebellion Donuts,17677 Cumberland Rd,Noblesville,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Red Habanero Fresh Mexican Grill,17417 Carey Rd.,Westfield,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Red Robin Gourmet Burgers,13215 Harrell Parkway,Noblesville,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Sahms Ale House Village,12819 E. New Market St.,Carmel,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Sichuan,1329 S. Rangeline Road,Carmel,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Thai Nine,9873 N. Michigan Road #150,Carmel,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,The Garden Table,350 Monon Blvd Suite 16,Carmel,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,The Monks Fusion Cuisine,13080 Grand Blvd,Carmel,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Wendys,2370 E. 116th St.,Carmel,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Westfield Diner Pancake House,781 East Main Street,Westfield,,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Westfield Intermediate,,Westfield,46074,,2023,Medium,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+New York,NY,Albany,Sovrana Pizza & Deli,63 North Lake Avenue,Albany,12206,,2026-06-17,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Clinton,Hong Kong Jade,One Plattsburgh Plaza,Plattsburgh,12901,,2025-12-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Lewis,Brantingham Inn Motel,7791 Brantingham Road,Greig,13345,,2024-03-20,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cortland,Barry Elementary,20 Raymond  Avenue,Cortland,13045,,2026-03-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Santorini Tavern,175 Valley Street,Sleepy Hollow,10591,,2025-12-17,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Yobo Oriental Restaurant,1297 Rt 300,Newburgh,12550,,2025-10-16,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oswego,Basil Thai Phoenix,"219 County Route 57, Unit 2",Phoenix,13135,,2026-05-28,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chenango,China House,"5640 South State Highway 12,Box 2","Norwich, N.Y.",13815,,2025-11-13,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,"Louisiana Cookery, The",8671 Lake Road,Barker,14012,,2026-06-25,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Tim Hortons (10371 Bennett Fredonia),10371 Bennett Road,Fredonia,14063,,2026-05-04,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Seabreeze Park-Waffle Stand,4600 Culver Road,Rochester,14622,,2025-07-21,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Putnam,Brewster Ice Arena,63 Fields Lane,Brewster,10509,,2026-06-18,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,"La Salle Yacht Club, Inc.",73 South 68Th Street,Niagara Falls,14304,,2025-10-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Essex,Big Mountain Deli & Creperie,2475 Main  Street,Lake Placid,12946,,2026-04-03,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,La Salle Preparatory,7436 Buffalo Avenue,Niagara Falls,14304,,2025-07-31,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Katie'S Cottage,521 Central Park Avenue,Yonkers,10704,,2026-04-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ulster,Brooklyn Sour,"1219 State Route 213 E, Unit A",High Falls,12440,,2026-06-26,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Columbia,Dos Amigos,1 Church Street,Chatham,12037,,2024-12-20,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Jefferson,Blue Anchor,46-48 James Street,Alexandria Bay,13607,,2025-08-07,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Pj'S,85 Route 6,Baldwin Place,10505,,2025-11-05,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Arthur S. Moran Post #66,2422 Moran Post Road,Camden,13316,,2025-08-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Yates,Keuka College,141 Central Avenue,Keuka Park,14478,,2026-02-25,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Sky Armory,332 South Salina Street,Syracuse,13202,,2026-06-10,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Schenectady,Kentucky Fried Chicken,109 State Street,Schenectady,12305,,2024-09-11,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rensselaer,Okinawa,61 Main Avenue,Wynantskill,12198,,2026-05-21,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Amackassin Club - Bar,557 Palisade Avenue,Yonkers,10703,,2025-07-11,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ontario,Melt Ice Cream On Main,114  Main  Street,Phelps,14532,,2026-06-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Bowlero White Plains - Upstairs Bar,47 Tarrytown Road,White Plains,10607,,2026-03-30,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Niagara Towers,901 Cedar Avenue,Niagara Falls,14301,,2025-04-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Ice Cream Stand (The),200 West Water Street,Syracuse,13202,,2025-05-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Tam Eden Bakery,31 B Jefferson Avenue,Spring Valley,10977,,2026-01-14,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,White Castle,257 South Broadway,Yonkers,10705,,2026-01-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wayne,Kidtopia,6225 Slocum Road,Ontario,14519,,2025-12-02,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Knollwood Country Club - Main Kitche,Knollwood Road,Elmsford,10523,,2025-10-22,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ulster,Camp Shawangunk - Ellenville School,28 Maple Avenue,Ellenville,12428,,2024-07-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Dunkin Donuts,1034 North Broadway,Yonkers,10701,,2025-06-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Jimmy'S Pub,3044 Niagara Street,Niagara Falls,14303,,2026-03-26,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Fulton,Mayfield High School,27 School Street,Mayfield,12117,,2026-02-10,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Michael'S - 23Rd St,229 Twenty-Third Street,Watervliet,12189,,2025-12-22,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Longford'S Ice Cream,4 Elm Street,Rye,10580,,2025-01-29,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Dinosaur Bar-B-Que,246 West Willow Street,Syracuse,13202,,2025-11-21,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Cohoes Intermediate Baseball League,1 Adams Avenue,Cohoes,12047,,2025-06-06,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Panera Bread Bakery & Cafe #1620,1508 Military Road,Niagara Falls,14304,,2026-02-06,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Ibm - Executive Dining Room,New Orchard Road,Armonk,10504,,2026-04-30,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Lewiston Volunteer Fire Company #2,1705 Saunders Settlement Road,Niagara Falls,14304,,2026-01-14,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Herkimer,American Legion Adirondack #1118,529 Main Street,Cold Brook,13324,,2025-07-31,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Genesee,Chestnut Hill Cc,1330 Broadway Street,Darien,14040,,2026-06-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Greene,"Angel'S Pizza Restaurant, Inc.",4318 Route 23,Cairo,12413,,2026-01-29,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Salvatore'S Pizzeria (Charlotte),4000 Lake Avenue,Rochester,14612,,2026-02-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Fulton,Johnstown Little League,505 West Main Street  Extension,Johnstown,12095,,2026-04-02,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Most Holy Rosary School,1031 Bellevue Avenue,Syracuse,13207,,2026-04-10,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Franklin,Main Street Restaurant,79 Main Street,Tupper Lake,12986,,2026-03-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Great Neck Sd - E M Baker Elem,69 Baker Hill  Road,Great Neck,11023,,2024-10-30,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Meals On Wheels Of Harrison,1 Heineman Place,Harrison,10528,,2025-09-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Montgomery,Marie Curie School,9  Brice Street,Amsterdam,12010,,2026-03-12,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Rvc Sd - Riverside Elementary,110  Riverside Drive,Rockville Centre,11570,,2024-02-06,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Meeder'S Restaurant,19 East Main Street,Ripley,14775,,2026-01-14,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Sod Thai Kitchen,500 Route 303,Orangeburg,10962,,2026-02-26,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Island Harvest Summer Food Service,126 Spagnoli Road,Melville,11747,,2025-07-30,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Delaware,"Sidney Elks Lodge #2175, B.P.O.E.",104 River Street,Sidney,13838,,2025-08-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Wetzels Pretzels #3402,3402 Palisades Center Drive,West Nyack,10994,,2025-12-31,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Jefferson,Lyric Cafe & Tea Room,246 James Street,Clayton,13624,,2025-10-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Saratoga,Pizza 7,7 Caroline Street,Saratoga Springs,12866,,2025-12-12,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Burger King #289,1611 Main Street,Niagara Falls,14305,,2026-01-13,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Wendy'S #522/11031,7515 Niagara Falls Boulevard,Niagara Falls,14304,,2026-04-27,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Yates,Penn Yan Elementary School,3 School Drive,Penn Yan,14527,,2026-02-25,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Clinton,Arthur P. Momot Elem. & Pre-K,Monty Street,Plattsburgh,12901,,2026-04-14,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Jefferson,Grand Buffet,26437 Us Route 11,Evans Mills,13637,,2026-04-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Columbia,Fiesta,41 Main Street,Chatham,12037,,2025-08-07,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Community Opportunity Center - Tarry,105 Wildey Street,Tarrytown,10591,,2026-04-28,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Bowlero White Plains - Downstairs Ba,47 Tarrytown Road,White Plains,10607,,2026-03-30,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Burger King,385 Downing Drive,Yorktown Heights,10598,,2026-05-15,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Steuben,Champs Pizzeria / Restaurant,8833 State Route 415,Campbell,14821,,2026-06-11,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Dutchess,Community Hellenic Center,54 Park Avenue,Poughkeepsie,12603,,2026-06-05,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Montgomery,Mcdonald'S Of Palatine Bridge #6313,Dutchtown Plaza,Palatine Bridge,13428,,2025-02-12,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Jefferson,American Legion Post #904,9 Rock Street,Alexandria Bay,13607,,2025-07-28,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Dom To Go Ii,145 South Main Street,New City,10956,,2026-06-02,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Senior Citizen Nutrition Program,1974 Commerce Street,Yorktown Heights,10598,,2025-09-25,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Flagship Premium Cinema,78 Brookside  Avenue,Chester,10918,,2026-05-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Sullivan,Onde La Chilena,64 North Main Street,Liberty,12754,,2025-11-03,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Nhp-Gcp Sd - Manor Oaks School,1950 Hillside  Avenue,New Hyde Park,11040,,2025-01-13,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,"Salvation Army, The",50 Cottage Street,Lockport,14094,,2025-10-22,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Brookdale Summerfield,100 Summerfield Village Lane,Syracuse,13215,,2026-02-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ulster,Never Alone,20 Crofts Road,Hurley,12443,,2026-01-28,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Fulton,Pizza Supreme,2 North Main  Street,Broadalbin,12025,,2026-04-06,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Kennedy Fried Chicken,472 Broadway,Newburgh,12550,,2026-01-22,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Market Diner,2100 Park Street,Syracuse,13208,,2026-04-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Chili'S Grill & Bar #1527,1536 Military  Road,Niagara Falls,14304,,2026-03-27,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ontario,Jose & Willy'S At The Lake,20 Lake Shore Drive,Canandaigua,14424,,2026-03-24,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Essex,Champlain Valley Education Services,3092 Plank Road,Mineville,12956,,2025-07-22,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Food Consultants Inc @ Occ Src Arena,4585 West Seneca Turnpike,Syracuse,13215,,2026-04-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Livingston,Kfc/ Taco Bell,4200 Lakeville Road,Geneseo,14454,,2026-03-12,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Jefferson,Jreck Subs/Adams,32 East Church Street,Adams,13605,,2026-02-25,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Sieman'S Medical Diagnostics / Flik,511 Benedict Avenue,Tarrytown,10591,,2026-03-18,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Warren,Heidelberg Inn (The),352 Quaker Road,Queensbury,12804,,2026-04-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Dunkin Donuts/Baskin Robbins,6   Ocean Avenue,Lynbrook,11563,,2026-01-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,St Boniface Martyr  Mh Kitchen,12 Main  Avenue,Sea Cliff,11579,,2024-09-24,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,St Lawrence,"Tipsy Tomato, The",13 Mechanic Street,Norwood,13668,,2025-10-01,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,All Night Egg Plant,5781 Bridge Street,East Syracuse,13057,,2026-01-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Goat Island - Cave Plaza Building,Goat Island,Niagara Falls,14303,,2026-05-26,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Clinton,Mooers Elementary School Cafeteria,16 School Street,Mooers,12958,,2026-03-27,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,St Lawrence,Fourth Coast Cafe,53 Willow Street,Massena,13662,,2026-05-20,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Chipotle Mexican Grill #1562,129 Marshall Street,Syracuse,13210,,2026-03-31,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Allegany,Wellsville Country Club,3006 State Route 19,Wellsville,14895,,2026-05-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Sullivan,O & R Utilities Inc. Conf Ctr,Lebanon  Road,Glen Spey,12737,,2025-11-19,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Unicorn Asian,44 West Ramapo Road,Garnerville,10923,,2026-05-07,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Genesee,Kfc/Long John Silvers,4126  West Main Street,Batavia,14020,,2026-04-03,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Lewis,"Timberview Resort, Inc.",5265 Carpenter Road,Turin,13473,,2025-12-12,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Dunkin' (North Chili),3249 Union Street,North  Chili,14514,,2025-08-12,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Patisserie Lulu,40 Garth Road,Scarsdale,10583,,2026-02-26,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Bonnie Briar Country Club - Main Din,808 Weaver Street,Larchmont,10538,,2025-07-22,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Panera Bread,669 Hillside Avenue,New Hyde Park,11040,,2026-03-19,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Sal'S Pizza & Restaurant,41 East Genesee Street,Baldwinsville,13027,,2026-02-10,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Greene,Subway,14 Hope Plaza,West Coxsackie,12192,,2026-02-18,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,1933 Pub & Eatery & Catering,5019 West Ridge Road,Spencerport,14559,,2026-04-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Barnes & Noble Booksellers #1912,1542 Northern  Boulevard,Manhasset,11030,,2026-04-24,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ontario,Casa De Pasta,125  Bemis  Street,Canandaigua,14424,,2026-05-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Fortuna'S Restaurant,827 - 19Th Street,Niagara Falls,14301,,2025-12-10,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Sunshine'S Coffee Shop,6760 North Thompson Road,Syracuse,13211,,2026-02-12,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cortland,Hampton Inn,26 River  Street,Cortland,13045,,2025-06-18,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Escape Lounges,1000 Col. Eileen Collins Boulevard,Syracuse,13212,,2026-04-16,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Franklin,Downhill Grill,74 Main Street,Saranac Lake,12983,,2026-03-17,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Herkimer,Mt. Markham - Senior High School,545 Fairground Road,West Winfield,13491,,2026-04-24,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Saratoga,Cock N Bull,5342 Parkis Mills Road,Galway,12074,,2026-05-20,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Vinny'S Lunchette,160 Delaware Avenue,Delmar,12054,,2026-02-10,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,"Gypsy Emporium, Llc",238 Oliver Street,North Tonawanda,14120,,2025-10-18,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,El Paraiso Bar & Restaurant,23-25 Kennedy Drive,Spring Valley,10977,,2026-02-25,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Franklin,Petrova School,141 Petrova Avenue,Saranac Lake,12983,,2026-03-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tompkins,Icsd - Cayuga Heights Elem School,110 East Upland Road,Ithaca,14850,,2026-04-06,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Seneca,Bee'S,107 Fall Street,Seneca Falls,13148,,2019-11-15,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Van Horn Mansion,2165 Lockport-Olcott Road,Burt,14028,,2025-06-30,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,St. John'S Episcopal Church,431 Lake  Street,Wilson,14172,,2026-03-03,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Maplewood School Day Care,2166 Wantagh Avenue,Wantagh,11793,,2024-02-15,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Jim Romas Bakery & Carry Out,202 N Nanticoke Avenue,Endicott,13760,,2026-04-28,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ulster,International Riding Camp,Birchal Road,Greenfield Park,12435,,2025-08-01,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Delaware,All Sorts,167 East Front Street,Hancock,13783,,2026-04-03,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Hofstra Arena Upper Level Concession,1000 Fulton Avenue,Hempstead,11550,,2024-04-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Maple Corner Deli,114 Brook Street,Scarsdale,10583,,2025-03-04,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Rcsd-Roberto Clemente School #8,1180 St Paul Street,Rochester,14621,,2026-03-02,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ulster,Chambers Elementary School,945 Morton Boulevard,Kingston,12401,,2026-01-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Sutton Place Great American Bar/Gril,124 West Park  Avenue,Long Beach,11561,,2025-01-29,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Genesee,"Subway-Walmart, Batavia",4133 Veterans Memorial Drive,Batavia,14020,,2025-10-27,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Jeremy'S Ale House,239 Woodcleft  Avenue,Freeport,11520,,2024-09-10,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,New Wah Yuan Kitchen,262 Boston Post Road,Port Chester,10573,,2025-01-16,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rensselaer,Lasalle Institute,174 Williams Road,Troy,12180,,2025-12-04,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Overseas Veteran'S Assn.,783 Broadway,Watervliet,12189,,2025-12-18,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Dunkin' Donuts,262 Route 59,Suffern,10901,,2026-01-27,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Starbucks #52420,3820 Ny State Route 31,Liverpool,13090,,2026-04-06,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tioga,Panda Wok Owego Inc.,713 State Route 17C,Owego,13827,,2026-06-11,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,True Vine Soup Kitchen,111 Furman Street,Syracuse,13207,,2026-02-25,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,El Latino Restaurant & Catering,1020 Chili Avenue,Rochester,14611,,2026-04-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Vestal Little League,Clayton Avenue,Vestal,13850,,2025-04-24,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Scarsdale H.S. / Compass,2 Brewster Road,Scarsdale,10583,,2025-10-24,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Yonkers Fried Chicken,7 Palisade Avenue,Yonkers,10701,,2026-01-15,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Eurest Dining Services @ Inficon,2 Technology Place,East Syracuse,13057,,2025-12-12,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rensselaer,Rpi Commons Dining Hall,2144 Burdett  Avenue,Troy,12180,,2026-05-01,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Warren,L.G. Steamboat-Lac Du St. Sacrement,Beach Road,Lake George,12845,,2025-07-28,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,American Legion Post #93 Port Cheste,78 Pearl Street,Port Chester,10573,,2025-08-13,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Dave & Buster'S,4661 Palisades Center Drive,West Nyack,10994,,2026-06-11,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Schenectady,Wendy'S 132 Erie Blvd,132 Erie Boulevard,Schenectady,12305,,2025-09-24,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Five Iron Golf Syracuse,400 South Salina Street,Syracuse,13202,,2026-04-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Warren,Comfort Inn & Suites - Lake George,4054  State Route 9L,Lake George,12845,,2025-10-02,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Bergholz Fire Company,2470 Niagara  Road,Niagara Falls,14304,,2025-04-04,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Columbia,Smitty'S Pub,882 Route 20,New Lebanon,12125,,2026-05-28,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tompkins,Modern Ohana,205 Elmira  Road,Ithaca,14850,,2026-03-18,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Summer Feeding At Seals Community Ce,300 West Borden Street,Syracuse,13205,,2025-07-11,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Jefferson,O'Brien'S Restaurant & Catering,226 Webb Street,Clayton,13624,,2026-04-10,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,"Gothic Hill Golf Course, Inc.",5477 Niagara Street Extension,Lockport,14094,,2025-08-28,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,New China House,13 Orangetown Shopping Center,Orangeburg,10962,,2026-03-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,New Panda Kitchen,898 New Loudon Road,Latham,12110,,2025-04-17,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,May Memorial Unitarian Universalist,3800 East Genesee Street,Syracuse,13214,,2026-01-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,"Skenandoa Club, The",7105 Norton Avenue,Clinton,13323,,2025-10-15,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Orchid Restaurant,730 Franklin Avenue,Garden City,11530,,2025-10-28,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Niagara Wheatfield Concession Stand,2292 Saunders Settlement Road,Sanborn,14132,,2025-11-01,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,"Heart, Love & Soul, Inc",939 Ontario Avenue,Niagara Falls,14305,,2026-02-12,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Greene,Mcdonald'S - Catskill #12171,55 Maple Avenue Route 9W,Catskill,12414,,2026-06-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Coppertop Tavern Event House,3372 Milton Avenue,Syracuse,13219,,2026-06-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Bishop Ludden Grimes High School,815 Fay Road,Syracuse,13219,,2026-02-05,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Pearl River Diner,87 North Middletown Road,Pearl River,10965,,2026-02-27,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Sakura Home,2775 Monroe Avenue,Rochester,14618,,2026-06-02,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Patsy'S Bay Marina,9 Hudson Drive,Stony Point,10980,,2025-07-03,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ulster,Rock Da Casbah,216 Main Street,Saugerties,12477,,2025-10-31,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cattaraugus,Bartlett Country Club,32 Euclid Avenue,Olean,14760,,2025-12-12,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Delaware,"Ski Plattekill, Inc.",469 Plattekill Road,Roxbury,12474,,2026-02-06,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Schenectady,Yummy Yummy Kitchen,2727 Hamburg  Street,Rotterdam,12303,,2025-11-13,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Chipotle Mexican Grill (City Gate),400 East Henrietta Road,Rochester,14620,,2026-06-15,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ulster,Kingston Catholic School,159 Broadway,Kingston,12401,,2026-02-19,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Three Lives,316  South Clinton Street,Syracuse,13202,,2026-05-01,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Steuben,Casa Mezcal Selecto,304 South Hamilton Street,Painted Post,14870,,2026-04-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Stella Niagara (Retirement Kitchen),4421 Lower River Road,Stella Niagara,14144,,2026-05-14,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ulster,Great Wall Restaurant,85-89 Murray Street,Kingston,12401,,2026-01-27,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rensselaer,Loporto Ristorante,85 Fourth Street,Troy,12180,,2025-11-19,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Dunkin Donuts,2244 Downer Street,Baldwinsville,13027,,2025-11-14,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Piccolo'S Restaurant,150 East Jericho  Turnpike,Mineola,11501,,2024-01-30,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Riverlife Chapel,3474 Creek Road,Youngstown,14174,,2025-11-03,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Henrietta Hots & Catering,4018 West Henrietta Road,Rochester,14623,,2026-06-16,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oswego,Citi Student Lunch/Serving Kitchen,179 County Route 64,Mexico,13114,,2026-02-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cortland,Little Treat Shoppe,3820 Route 11,Cortland,13045,,2026-05-20,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Warren,Chopsticks,365 Bay Road,Queensbury,12804,,2026-02-04,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Sullivan,Sand Beach,348 Lake View Drive,Highland Lake,12743,,2025-08-21,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Charley'S Philly Steaks,3630 Palisades Center Drive,West Nyack,10994,,2025-12-30,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Chautauqua Lake Central School,100 North Erie Street,Mayville,14757,,2026-05-29,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Warren,Mcdonald'S Warrensburg,3632 State Route 9,Lake George,12845,,2026-04-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Hofstra University Child Care Center,Hempstead Tpke & Duncan  Road,Hempstead,11550,,2024-01-10,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Dunkin Donuts,260 Halstead Avenue,Harrison,10528,,2025-09-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Ohr Hameir Seminary,Furnace Woods Road,Cortlandt,10566,,2026-02-18,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Madison,Meier'S Creek Brewing Co.,33 Rippleton Road,Cazenovia,13035,,2026-04-02,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Warren,"Sagamore, The",110 Sagamore Road,Bolton Landing,12814,,2025-08-12,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Domino'S (Culver),1699 Culver Road,Rochester,14609,,2026-03-04,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Rodfather'S Bbq & Catering,7252 State Fair Boulevard,Syracuse,13209,,2026-05-13,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ontario,"Niagara B & G, Llc",57 Niagara  Street,Canandaigua,14424,,2026-06-03,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Saratoga,Doubleday Diner,2002 Doubleday  Avenue,Ballston Spa,12020,,2025-11-03,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Clinton,Camp Chateaugay & Pool,233 Gadway Road,Merrill,12955,,2025-08-05,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Herkimer,Central Valley Academy High Sch,111 Frederick Street,Ilion,13357,,2026-04-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,"Lunchbox @ 1400, The",1400 Old Country  Road,Westbury,11590,,2025-10-27,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Putnam,Green Chimneys School,400 Doansburg Road,Brewster,10509,,2026-05-27,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Franklin,Pilgrim Holiness Church Camp,246 Swinyer Road,Vermontville,12983,,2025-07-22,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Nonna'S Pizza,52 Lake Street,White Plains,10603,,2025-04-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Columbia,Mario'S Restaurant,458 State Route 20,New Lebanon,12125,,2024-05-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Langes Little Store,382 King Street,Chappaqua,10514,,2025-12-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Mott Road Elementary School,7173 Mott Road,Fayetteville,13066,,2026-03-17,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Washington,Hudson Falls Senior High School,80 East Labarge Street,Hudson Falls,12839,,2026-05-01,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Sullivan,Cong Khal Torath Chaim Of Kiamesha,251 Barnes Boulevard,Kiamesha Lake,12751,,2026-02-03,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Lin Li'S Chinese Restaurant,"5501 Bartell Road, #2",Brewerton,13029,,2026-05-29,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Ay Caramba,497 Main Street,New Rochelle,10801,,2025-11-24,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Delaware,T P'S Cafe,7 Railroad Avenue,Stamford,12167,,2026-02-13,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,"Prosper Brewing, Llc",72 Webster Street,North Tonawanda,14120,,2026-06-17,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Hole Shot Deli & Bagel,62 North Route 9W,Haverstraw,10927,,2026-04-30,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Yonkers B.O.E. - P.S. #18,77 Park Hill Avenue,Yonkers,10701,,2026-04-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Murugan Cafe,"1 Prospect Pt., Unit #6",Niagara Falls,14303,,2026-06-25,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Mall Frouo,2530 Palisades Center Drive,West Nyack,10994,,2025-12-31,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Dairy Queen,2301   Military Road,Niagara Falls,14304,,2025-07-10,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Lucky 7 Grocery & Deli,3100 Court Street,Syracuse,13206,,2026-01-05,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Rochester Csd/Central Kitchen,835 Hudson Avenue,Rochester,14621,,2025-07-31,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Grimaldi'S Pizzeria,980 Franklin  Avenue,Garden City,11530,,2026-05-20,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Golden Rail Ale House,29 Old North Plank Road,Newburgh,12550,,2025-11-13,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,St Lawrence,Hometown Cafe',3 North Main Street,Norwood,13668,,2025-09-19,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ontario,Geneva High/Middle School Cafe,101 Carter  Road,Geneva,14456,,2026-05-04,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,D & N Sushi Bar,2 Veterans Parkway,Pearl River,10965,,2026-03-26,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Madison,New York Pizzeria Morrisville,28 East Main Street,Morrisville,13408,,2026-04-17,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Cicero North Syracuse Athletic Boost,6002 State Route 31,Cicero,13039,,2026-05-12,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ulster,Passover 2026,1195 Arrowhead Road,Ellenville,12428,,2026-04-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Nys Park Police Academy,16 Camp Cass Road,Rensselaerville,12147,,2025-11-06,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Livingston,Kidstart,5871 Groveland Station  Road,Mt. Morris,14510,,2026-05-29,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,St Lawrence,Mcduff'S Pub,59 Market Street,Potsdam,13676,,2026-04-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Mike'S D.Q. Grill & Chill,2432 Niagara Street,Niagara Falls,14303,,2026-06-24,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Vertex Club Of Rochester,169 North Chestnut Street,Rochester,14604,,2025-10-16,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Ruston'S Diner,6407 Rockcut Road,Jamesville,13078,,2026-06-11,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Jefferson,Carthage Middle School,21986 Cole Road,Carthage,13619,,2023-03-21,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,St. John De La Salle Church,8477 Buffalo Avenue,Niagara Falls,14304,,2025-10-02,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Roma Pizza,53 Merrick Avenue,Merrick,11566,,2025-09-11,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Gallo Coal Fire Kitchen 2 Llc,402 Center Street,Lewiston,14092,,2026-06-25,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Madison,Dunkin Donuts Cazenovia,135 Albany Street,Cazenovia,13035,,2026-04-03,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Center Restaurant,540 Warburton Avenue,Hastings-On-Hudson,10706,,2025-04-10,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Genesee,Darien Lake Fse,9993 Alleghany Road,Darien Center,14040,,2025-07-15,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ontario,Dario'S Famous Pizza,1560 Rochester  Road,Farmington,14425,,2026-04-22,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Mcdonald'S (Westfield),102 East Main Street,Westfield,14787,,2026-01-12,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Su Lally Food Service Center,1301 East Colvin Street,Syracuse,13244,,2026-03-18,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Franklin,Titus Mountain Family Ski Center Llc,215 Johnson Road,Malone,12953,,2026-02-18,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Dinner Bell Restaurant,15 Center Street,Frewsburg,14738,,2026-01-22,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Kelly'S On The Greens,4343 Porter Road,Niagara Falls,14305,,2025-06-06,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Dn Syr @ Airport Kitchen-Commissary,1000 Col. Eileen Collins Boulevard,Syracuse,13212,,2026-04-16,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Dosa Grill,100 Rano Boulevard,Vestal,13850,,2026-04-10,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Jefferson,American Legion Post #916,40   Main Street,Antwerp,13608,,2019-10-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Franklin,Brushton-Moira Adult Center,1328 Washington Street,Brushton,12916,,2026-02-11,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chenango,Christian Neighborhood Center,22 East Main Street,Norwich,13815,,2025-10-01,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Compane Trattoria,"25 Parce Avenue, Suite 140",Fairport,14450,,2026-06-25,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Genesee,City Of Batavia Y B Community Center,12 Mcarthur Drive,Batavia,14020,,2025-08-06,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oswego,Maroun Elementary Primary School,11 Elm Street,Phoenix,13135,,2022-08-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Saratoga,Holiday Inn-Saratoga Springs,232 Broadway,Saratoga Springs,12866,,2026-03-17,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Willowbrook Restaurant & Snack Bar,4200 Lake Avenue,Lockport,14094,,2026-06-10,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Saratoga,Saratoga Flat Track,267 Union Avenue,Saratoga Springs,12866,,2025-08-07,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Tim Hortons,6470 Campbell  Boulevard,Lockport,14094,,2025-10-10,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rensselaer,Unbeatable Nutrition,720 Hoosick Road,Troy,12180,,2025-02-14,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Hamilton,Puterko'S Family Pizzeria,6240 Nys Route 30,Indian Lake,12842,,2026-02-19,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Mcdonald'S,400 Towne Drive,Fayetteville,13066,,2026-03-12,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Jane'S Cafe Express,103 Portage Road,Lewiston,14092,,2025-05-14,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Sullivan,"Machne Tzvi, South Fallsburg",5405 State Route 42,South Fallsburg,12779,,2025-08-19,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Harvest-On-Hudson,1 River Street,Hastings-On-Hudson,10706,,2025-10-01,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Sullivan,New Hope Manor,35 Hillside Road,Barryville,12719,,2026-02-13,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Gus'S Hot Dogs,212 Twenty-Fifth Street,Watervliet,12189,,2025-04-21,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Jefferson,Jefferson/Lewis Boces,20104 Nys Route 3,Watertown,13601,,2026-01-28,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Herkimer,Remington School (Pathways Academy),77 East North Street,Ilion,13357,,2026-04-01,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,New Rochelle Tennis Club,114 Valley Road,New Rochelle,10804,,2025-06-24,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Rocky'S Pub,209 Oswego Street,Liverpool,13088,,2026-02-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Schuyler Meadows Club,17 Schuyler Meadows Club Road,Loudonville,12211,,2026-05-06,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,St. Mary'S Academy,49 Syracuse Street,Baldwinsville,13027,,2026-02-03,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Washington,Bog (The),52 East Main Street,Cambridge,12816,,2026-03-23,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Warren,Loon (The),5064 State Route 8,Chestertown,12817,,2025-08-13,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Froze D Lite,4451 Palisades Center Drive,West Nyack,10994,,2025-12-11,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Otsego,Copper Fox Tavern,7 Market Street,Oneonta,13820,,2026-06-26,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Island Harvest Summer Food Service,126 Spagnoli Road,Melville,11747,,2023-07-12,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Guptill'S Coney Express,1085 New Loudon Road,Cohoes,12047,,2026-04-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Split Rock Elementary School,4151 Split Rock Road,Camillus,13031,,2026-02-05,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,East Hill Elementary School,401 Blackmore Road,Camillus,13031,,2026-01-06,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Essex,Maple Ridge Park Crabshack,2922  Nys Route 9N,Crown Point,12928,,2025-07-24,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Pita Dream,214 Walton Street,Syracuse,13202,,2026-02-25,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,St Lawrence,Tick Tock Pub,11 Hodskin Street,Canton,13617,,2026-02-27,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Franklin,Adirondack Adult Center,179 Demars Boulevard,Tupper Lake,12986,,2026-02-03,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Dunkin' (Pc # 341931),1197 Route 208,Monroe,10950,,2026-06-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,"Back 9 Bbq @ Eagle Vale Cc, The",4344 Nine Mile Point Road,Fairport,14450,,2026-03-10,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Franklin,Red Fox Restaurant,5034 State Route 3,Saranac Lake,12983,,2026-05-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Fulton,Sacandaga Bible Conference,191 Lakeview Road,Broadalbin,12025,,2026-06-12,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wyoming,Perry Veteran'S Memorial,64 Lake Street,Perry,14530,,2026-03-05,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Little Tokyo,3622 Palisades Center Drive,West Nyack,10994,,2026-06-11,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Steuben,Addison Cinderella Softball Concessn,60 Cleveland Drive,Addison,14801,,2026-06-04,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Essex,Bpoe #1494,5 Tower Avenue,Ticonderoga,12883,,2025-09-25,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cattaraugus,Tito'S,310 West State Street,Olean,14760,,2022-12-08,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,O'Hara'S Clubhouse At 19Th Hole,354 Ny Route 5,Elbridge,13060,,2026-05-01,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Paramount Country Club,60 Zukor Road,New City,10956,,2026-04-03,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Schenectady,Pinewood Intermediate School,901 Kings Road,Schenectady,12303,,2026-05-26,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Dunkin Donuts,1068 Old Country Road,Plainview,11803,,2026-04-01,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chenango,"Old Mill Restaurant, Inc.",2032 State Highway 8,Mt. Upton,13809,,2025-08-29,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,St Lawrence,Skunk'S Nest,92 Main Street,Hermon,13652,,2026-05-27,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Livingston,Village Tavern,137 Center Street,Geneseo,14454,,2026-06-01,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Sushi & Kimchi,328 Route 59,Central Nyack,10960,,2026-06-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Legacy Wine Bar,51 State Street,Rochester,14614,,2025-11-07,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Post Road School,175 West Post Road,White Plains,10606,,2026-02-04,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Shaker Middle School,475 Watervliet Shaker Road,Latham,12110,,2026-01-20,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Hearth Management @ Franciscan Villa,6900 Buckley Road,North Syracuse,13212,,2026-03-31,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Putnam,Aversano'S Rest. & Pizza,1620 Route 22,Brewster,10509,,2026-05-20,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Frozen D Lite,1 Destiny Usa Drive,Syracuse,13204,,2026-03-09,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Clinton,Burger King Restaurant #321,Skyway Shopping Center,Plattsburgh,12901,,2026-03-25,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Franklin,Mcdonald'S Of Tupper Lake,26 Demars Boulevard,Tupper Lake,12986,,2026-02-03,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,"Lotus Garden, The",1011 King Street,Utica,13501,,2025-11-20,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Rio Grande Tex Mex Grill,3913 Oneida Street,New Hartford,13413,,2026-01-28,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Livingston,Livonia High School,2 Bulldog Boulevard,Livonia,14487,,2026-03-11,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ulster,Mcdonald'S #11036,350 Route 212,Saugerties,12477,,2026-01-21,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Pretzel Maker - Crossgates Mall,1 Crossgates Mall Road,Albany,12203,,2026-01-15,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,La Pinata Bakery,118 New Main Street,Yonkers,10701,,2026-03-12,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Madison,Poolville Country Store,1245 Earlville Road,Earlville,13332,,2025-10-29,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Su Dome Vending #270,900 Irving Avenue,Syracuse,13244,,2025-10-18,Low,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+Indiana,IN,Hamilton,Freddy's Frozen Custard,9703 N. Michigan Rd.,Carmel,,,2023,Low,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Jimmy Johns,17409 Wheeler Rd,Westfield,,,2023,Low,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Mi Hacienda Mexican Restaurant,819 W Carmel Dr.,Carmel,,,2023,Low,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Sunrise Cafe @ Uptown,809 Conner Street,Noblesville,,,2023,Low,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Westfield Middle School,,Westfield,46074,,2023,Low,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Noblesville High School,,Noblesville,46060,,2023,Low,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Shamrock Springs Elementary,,Westfield,46074,,2023,Low,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Sheridan High & Middle School,,Sheridan,46069,,2023,Low,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+Indiana,IN,Hamilton,Carmel High School,,Carmel,46032,,2023,Low,https://hamiltoncounty.in.gov/HealthOnline,2026-06-30
+New York,NY,Cayuga,Union Springs Booster Club,239 Cayuga Street,Union Springs,13160,,2025-09-25,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cayuga,Walter T. Conley Post 1107,8 Schobey Street,Union Springs,13160,,2025-10-03,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Clinton,Burger King Restaurant #323,303 Cornelia Street,Plattsburgh,12901,,2026-04-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Dutchess,Chancellor Livingston Elementary,48 Knollwood Road,Rhinebeck,12572,,2026-02-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Faith United Methodist Church,1449 Quaker Road,Barker,14012,,2025-03-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Rome Country Club,5342 Rome-Taberg Road,Rome,13440,,2025-08-18,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Borodino Fire Department,2500 Nunnery Road,Skaneateles,13152,,2025-10-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wayne,"Greystone Restaurant, Llc",1400 Atlantic Avenue,Walworth,14568,,2026-05-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Burger King #342 - Endwell,3310 E Main Street,Endwell,13760,,2026-03-02,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Irwin'S Fine Food,240 Genesee Street,Utica,13502,,2026-05-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,American Legion Post #1361,1951 West Fayette Street,Syracuse,13204,,2026-02-03,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Applebee'S Neighborhood Bar & Grill,4755 Commercial Drive,New Hartford,13413,,2026-02-04,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,"Old Songs, Inc.",37 South Main Street,Voorheesville,12186,,2025-08-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Schoharie,Black Cat Cafe,195 Main Street,Sharon Springs,13459,,2026-06-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Ely Park Golf Course,67 Ridge Street,Binghamton,13905,,2026-05-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Dutchess,Holy Cow,7270 South Broadway,Red Hook,12571,,2026-04-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Pizza Hut (Irondequoit),2255 East Ridge Road,Rochester,14622,,2026-03-23,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Allie'S Bakery,21 Orangetown Center,Orangeburg,10962,,2026-04-28,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Gino'S,187A  North Long Beach  Road,Rockville Centre,11570,,2025-10-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cortland,Homer Elementary School,9 Central Park  Place,Homer,13077,,2026-01-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Meals On Wheels-Western Broome,705 West Main Street,Endicott,13760,,2026-03-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Warren,Brant Lake Camp,7586 State Route 8,Brant Lake,12815,,2025-07-18,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Furoshiki,682 Park Avenue,Rochester,14607,,2026-03-14,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cattaraugus,Subway,2 South Main Street,Portville,14770,,2026-02-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,New Hyde Park Baptist Church - Mhk,635 New Hyde Park  Road,New Hyde Park,11040,,2026-04-28,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Mamas Spices Catering,700 Chestnut Ridge Road,Chestnut Ridge,10977,,2026-02-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tompkins,Le Cafe Cent Dix,110 North Aurora Street,Ithaca,14850,,2026-05-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Chautauqua Lake Yacht Club,43  East Lake Street,Lakewood,14750,,2025-10-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Caffe Regatta,133 Wolfs Lane,Pelham,10803,,2026-04-01,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wyoming,Bennington Bar & Grill,1374 Route 354,Attica,14011,,2025-09-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Washington,Jen'S Pit Stop,39 State Route 22A,Granville,12832,,2026-04-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,American Civic Association,131 Front Street,Binghamton,13905,,2026-03-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Schenectady,New Lucky House,160 Sacandaga Road,Scotia,12302,,2025-11-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Grande'S Pizzeria Of Rome,1111 Floyd Avenue,Rome,13440,,2025-05-14,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Tre Angelina,478 Mamaroneck Avenue,White Plains,10601,,2025-11-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,New City Bowl,90 North Main Street,New City,10956,,2025-10-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Perkins Mansion,494 East Avenue,Rochester,14607,,2025-12-01,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Seneca,Ace Automatics Inc.,1771 Auburn Road,Seneca Falls,13148,,2025-10-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,St. Paul Lutheran School,158 East Avenue,Hilton,14468,,2025-11-03,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cattaraugus,Lou'S Tavern,11849 Main  Street,Perrysburg,14129,,2025-12-02,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Schaller'S (Irondequoit),559 East Ridge Road,Rochester,14621,,2026-01-23,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Herkimer,"Lanterns, The",275 Rasbach Road,Clayville,13322,,2025-07-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Mugal Palace,16 Broadway,Valhalla,10595,,2026-02-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Taj Mahal Indian Restaurant,60 Genesee Street,New Hartford,13413,,2026-04-01,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Herkimer,West Canada Valley Cent.School,5447 State Route  28,Newport,13416,,2026-04-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,"Kayuta Drive In, Inc. (Rfd)",10101 Dustin Road,Remsen,13438,,2025-08-25,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Arc Deli (Rochester),1645 Lyell Avenue,Rochester,14606,,2025-12-02,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,California Grill,912 Vestal Parkway East,Vestal,13850,,2026-03-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ontario,Lafayette Motel And Restaurant,408 Lake Shore  Drive,Canandaigua,14424,,2026-01-16,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Children'S Center Of Brighton #2,2541  Lac Deville Boulevard,Rochester,14618,,2025-04-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ontario,Vienna Gardens Senior Living,144 Main  Street,Phelps,14532,,2026-04-01,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Caffe Del Corso,3701 Vestal Parkway,Vestal,13850,,2026-01-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rensselaer,Dobys Submarines,43 Mall   P.O. Box 431,West Sand Lake,12196,,2026-03-31,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Jericho Drive-In Theatre,21 Jericho Road,Glenmont,12077,,2026-03-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Ofa-Lincoln Court Apartment,21 New Street,Binghamton,13903,,2025-03-06,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Starbucks Coffee (Brighton-12 Cnrs),1914 Monroe Avenue,Rochester,14618,,2025-12-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Newburgh Brewing Company,88 South Colden  Street,Newburgh,12550,,2026-01-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Ann G Mcguinness Elem School,1301 Union Center Highway,Endicott,13760,,2025-09-18,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,"Iron Kettle Coffee Shoppe, Inc.",215 East Dominick Street,Rome,13440,,2025-10-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Brockport Csd-Fred Hill & Catering,40 Allen Street,Brockport,14420,,2026-03-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Jefferson,Comfort Inn & Suites Watertown,110  Commerce Park Drive,Watertown,13601,,2025-12-03,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rensselaer,"South Troy Diner, Inc.",579 First Street,Troy,12180,,2026-03-31,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Livingston,Limerock Speedway,21 Flint Hill Road,Caledonia,14423,,2018-09-01,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Madison,Copper Cricket Culinary Company,107 Utica Street,Hamilton,13346,,2026-04-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oswego,Hastings Gorski American Legion,8 Vida Drive,Williamstown,13493,,2026-03-03,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Genesee,Elba Central School,57 South Main Street,Elba,14058,,2025-07-31,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wyoming,Flipside,3803 Main Street,Strykersville,14145,,2025-12-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,St James United Methodist Church,11 St James  Place,Lynbrook,11563,,2025-06-18,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Burger King (E Roc-Fairport Rd),875 Fairport Road,East Rochester,14445,,2025-07-07,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,"World Of Food Catering, A",493 Kings Highway,Valley Cottage,10989,,2026-06-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,The Tally Ho,16 Morris Avenue,Chautauqua,14722,,2025-06-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Ancient Order Of Hibernians,148 Main Street,Binghamton,13905,,2025-07-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Union Diner,3000 E. Main Street,Endwell,13760,,2026-03-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Elderone At Hudson,2066 Hudson Avenue,Rochester,14617,,2026-04-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Yates,Dunkin Donuts / Penn Yan,205 Lake  Street,Penn Yan,14527,,2026-01-07,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Nazareth Univ- Sushi Do @ The Roost,4245 East Avenue,Rochester,14618,,2025-09-03,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oswego,Harmony Riders Association,104 Shetler Road,Parish,13131,,2025-08-07,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Monsey Barbeque,106 Route 59,Monsey,10952,,2026-03-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,St Mary'S Council Knights Columbus,78 Hempstead Avenue,Lynbrook,11563,,2026-01-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Mattydale Fire Department,173 East Molloy Road,Mattydale,13211,,2026-02-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,P.J.'S Pizza,27 Ontario Street,Albany,12206,,2025-11-14,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Greece Csd-Paddy Hill Elementary,1801 Latta Road,Rochester,14612,,2026-01-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Tony'S Pizza,501 North Jay Street,Rome,13440,,2025-12-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Grande Pizzeria Italian Restaurant,1250 Front Street,Binghamton,13901,,2026-01-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orleans,First Presbyterian Church Of Holley,34 East Albion Street,Holley,14470,,2024-11-07,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Lumberjack'S Patio & Grill,1000 River Road,North Tonawanda,14120,,2025-06-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Washington,Main Street Variety,95 Main Street,Argyle,12809,,2025-09-25,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Susq Valley Richard T Stank,1040 Conklin Road,Conklin,13748,,2025-09-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rensselaer,Hometown Diner,26 Mall Way,West Sand Lake,12196,,2025-12-01,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Franklin,Young Life'S Saranac Village,4014 State Route 30,Saranac Lake,12983,,2026-06-01,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Northside,415 North James Street,Rome,13440,,2019-10-11,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,South Hills Country Club,3108 Busti-Stillwater Rd,Jamestown,14701,,2025-06-14,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Lewis,U.C.Of Copenhagen Meal Site,Main Street,Copenhagen,13367,,2025-02-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Caraglio'S Pizza & Catering (Hilton),7 & 11 Main Street,Hilton,14468,,2026-03-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Nonna Rosa,315 North Route 303,Orangeburg,10962,,2026-01-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Putnam,Northwood Inn,14 Frances Kiernan Pl. Place,Carmel,10512,,2026-05-28,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Saratoga,Union Gables Inn,55 Union Avenue,Saratoga Springs,12866,,2026-05-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Fairport Csd-High School,1 Dave Paddock Way,Fairport,14450,,2026-03-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Warren,"Boathouse Restaurant Llc., (The)",3210 Lake Shore Drive,Lake George,12845,,2026-06-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Saratoga,Life Works Community Action Soup Kit,24  Circular  Street,Saratoga Springs,12866,,2026-04-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Mks - Eni Products (Avi),100 Highpower Road,Rochester,14623,,2025-12-16,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Floyd Volunteer Fire Department,8367 Old Floyd Road,Floyd,13440,,2026-03-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tioga,The Rustic Griddle,1121 State Route 96,Candor,13743,,2025-02-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wyoming,Pioneer Elementary At Arcade,Church Street,Arcade,14009,,2026-02-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,George W. Miller Elementary School,50 Blauvelt Road,Nanuet,10954,,2025-10-28,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Village Of Pleasantville Senior Citi,1A Clinton Street,Pleasantville,10570,,2026-04-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Bonnie Briar Country Club -Glass Bar,808 Weaver Street,Larchmont,10538,,2025-07-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Atlantic Beach Club,1393 Beech  Street,Atlantic Beach,11509,,2025-08-01,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oswego,Oswego Theatre,138 West Second Street,Oswego,13126,,2025-10-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Washington,Greenwich Middle School,10 Gray Avenue,Greenwich,12834,,2026-03-11,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wayne,Ruben Cirillo High School,3195  Wiedrick  Road,Walworth,14568,,2026-01-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Lewis,Brickfront (The),West Main Street,Port Leyden,13433,,2024-06-07,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Otsego,Dairy Queen,413 Chestnut Street,Oneonta,13820,,2026-06-16,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,American Legion Post #232,Route 12B Po Box 224,Clinton,13323,,2025-03-18,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Schenectady,Morrette'S King Steak House,1126 Erie Boulevard,Schenectady,12305,,2019-10-25,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Building Blocks Cc Center,248 Lakeside Road,Newburgh,12550,,2026-04-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Feast & Festivities,8411 Seneca Turnpike,New Hartford,13413,,2025-10-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wayne,Marbletown Volunteer Fire Dept.,6416 Silver Hill  Road,Newark,14513,,2026-05-01,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Pearl River High School,275 East Central Avenue,Pearl River,10965,,2026-04-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Chuy'S Taqueria,1754 Mt. Hope Avenue,Rochester,14620,,2026-02-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Playa Bowls,3409 Erie Boulevard East,Syracuse,13217,,2026-06-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Ramapo Senior High School,400 Viola Road,Spring Valley,10977,,2007-07-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Kopani Commissary,40 Humboldt Street,Rochester,14609,,2026-05-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Ur Douglass Street,500 Wilson Boulevard,Rochester,14627,,2026-04-03,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cayuga,Giuseppe'S Pizzeria,75 Owasco Street,Auburn,13021,,2025-03-06,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Dutchess,White House,1107 Main Street,Fishkill,12524,,2026-01-20,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Madison,"Corral-Morrisville Pizzeria, The",44 East Main Street,Morrisville,13408,,2025-12-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Ateres Charna,790 North Main  Street,Spring Valley,10977,,2026-02-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Domino'S (East Rochester),785 Fairport Road,East Rochester,14445,,2025-09-25,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Bruster'S Real Ice Cream (Greece),824 Long Pond Road,Rochester,14612,,2025-04-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,F-M Youth Football Association Conce,700 South Manlius Street,Fayetteville,13066,,2025-10-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Herricks Sd - Center St Elem Sch,240 Center  Street,Williston Park,11596,,2025-09-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Dutchess,Beekman Elementary School,201 Lime Ridge Road,Poughquag,12570,,2026-04-14,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,St Lawrence,Madrid-Waddington Central School,2582 State Route 345,Madrid,13660,,2026-04-16,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Salem Nutrition Center,60 Bittner Street,Rochester,14604,,2025-12-16,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cayuga,Millard Fillmore Elementary - Sacc,South Main Street,Moravia,13118,,2021-11-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,St Lawrence,Hermon-Dekalb Central School,709 East Dekalb Road,Dekalb Junction,13630,,2025-07-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Decosta'S,400 Yonkers Avenue,Yonkers,10704,,2025-06-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Trinity Alliance,15 Trinity  Place,Albany,12202,,2025-05-06,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Rcsd-Dr. Martin Luther King Jr #9,485 North Clinton Avenue,Rochester,14605,,2026-04-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Top Of The Morning Cafe Llc,414 Trenton Avenue,Utica,13502,,2026-01-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,La Strada Of Merrick,2100 Merrick Avenue,Merrick,11566,,2025-12-03,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Pride And Joy Day Care,55 Finn Road,Henrietta,14467,,2026-06-16,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Lounge 19,859 Bay Street,Rochester,14609,,2025-02-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,First United Methodist Church,8210 Buffalo Avenue,Niagara Falls,14304,,2026-02-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Madison,Cazenovia Childrens House,2757 U.S. Route 20 Route,Cazenovia,13035,,2026-04-28,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Napoli'S & Catering,5107 West Ridge Road,Spencerport,14559,,2026-04-23,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chenango,Unadilla Valley School District,4238 State Hwy 8,New Berlin,13411,,2025-08-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rensselaer,Footsy Magoos,17 First  Street,Troy,12180,,2026-01-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Sullivan'S Quay,541 Port Washington  Boulevard,Port Washington,11050,,2026-03-06,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Baldwinsville Pop Warner Football,8439 Smokey Hollow Road,Baldwinsville,13027,,2025-09-20,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Don Julio Restaurant,215 Wickham  Avenue,Middletown,10940,,2026-05-20,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oswego,Discovery Learning Center,80 County Route 59,Phoenix,13135,,2026-06-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Touche,309 West Fayette Street,Syracuse,13203,,2025-12-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,B & D'S Bagels,"21 Main St., Suite 1A1",Lockport,14094,,2026-06-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tioga,Owego Free Academy,1 Sheldon Guiles  Boulevard,Owego,13827,,2018-07-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,South Middle School,33 - 63 Monument Street,Newburgh,12550,,2026-04-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Nas Takeout,58 Morton Avenue,Albany,12202,,2026-04-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Allegany,Rockburgers,3511 Ray Hill Road,Andover,14806,,2026-04-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Baker Hill Tavern,630 Middle Neck  Road,Great Neck,11023,,2026-03-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tioga,Owego Free Academy,1 Sheldon Guiles  Boulevard,Owego,13827,,2026-05-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Port Jervis Seds,Route 209,Port Jervis,12771,,2022-08-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Homewood Suites By Hilton,180 Bruenig  Road,New Windsor,12553,,2026-03-31,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Children'S School @ Urmc-Cclc,55 Castleman Drive,Rochester,14620,,2025-11-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Dutchess,Catharine Street Comm. Ctr. Sed Site,69 Catharine Street,Poughkeepsie,12601,,2019-07-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Thornden Park Fieldhouse-Conc. Stand,721 Ostrom Avenue,Syracuse,13210,,2025-07-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rensselaer,Cracker Barrel Old Country Store 317,122 Troy Road,East Greenbush,12061,,2026-02-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Boys & Girls Club Of Ob-East Norwich,1 Pine Hollow  Road,Oyster Bay,11771,,2024-06-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Madison,Canastota High School,101 Roberts Street,Canastota,13032,,2025-09-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Tropical Delicacy,80  East Route 59,Spring Valley,10977,,2026-03-02,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Ted'S Fishing Station,143 Bayside  Drive,Point Lookout,11569,,2025-08-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Royal Cafe,15 North Main Street,Fairport,14450,,2025-11-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,St Pauls Greek Orthodox Church 1St F,110 Cathedral  Avenue,Hempstead,11550,,2026-05-14,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Starbucks Coffee Company #9485,217 West Genesee Street,Fayetteville,13066,,2026-01-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Landmark Family Restaurant,825 Fairport Road,East Rochester,14445,,2026-03-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Dutchess,Beacon High School,101 Matteawan  Road,Beacon,12508,,2026-04-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Morning Star Lodge,46 East Main Street,Marcellus,13108,,2025-09-23,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Kiki Restaurant,99 West Main Street,Goshen,10924,,2026-03-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Madison,Rogues Roost Country Club East,1086 State Hwy 31,Bridgeport,13030,,2025-06-11,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,"Hornet'S Nest, The",3027 Route 7,Nineveh,13813,,2026-03-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Pine Tree Elementary Sch,156 Pine Tree Road,Monroe,10950,,2026-04-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Madison,Primos Tacos And Tequila,3-5 Madison Street,Hamilton,13346,,2026-05-07,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Bellmore/Merrick Csd-Jf Kennedy Hs,3000 South Bellmore  Avenue,Bellmore,11710,,2025-11-20,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,My Apartment Bar,2515 Mt  Read Boulevard,Rochester,14615,,2025-12-02,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Greene,Crystal Brook Resort,430 Winter Clove Road,Round Top,12473,,2026-06-16,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Regal Cinema - Crossgates Mall,1 Crossgates Mall Road,Albany,12203,,2025-04-28,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Windsor Sr High Cafeteria,1191 Ny Route 79,Windsor,13865,,2025-07-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Mariella'S Pizzeria,41  New Main Street,Haverstraw,10927,,2026-04-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Division Street Grill,26 North Division Street,Peekskill,10566,,2024-01-23,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cayuga,Mort'S At Tinkers,78 Franklin Street,Auburn,13021,,2024-12-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Genesee,Bergen Farm Market Restaurant,8097 Clinton Street,Bergen,14416,,2026-02-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rensselaer,Schodack Sofa Site,1800 East Schodack Road,Castleton,12033,,2026-04-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Brooks Landing Diner,904 Genesee Street,Rochester,14611,,2026-03-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,El Quetzal Restaurant,63 East Eckerson Road,Spring Valley,10977,,2026-01-28,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Madison,Alexander'S Ragtime,132 Main Street,Oneida,13421,,2026-04-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,China Dragon,122 Brooklyn Avenue,Valley Stream,11581,,2025-01-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Midland Avenue Pizzeria,853 Midland Avenue,Yonkers,10704,,2026-03-04,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tompkins,Crossroads Bar & Grille,3120 North Triphammer Road,Lansing,14882,,2026-02-18,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Vvs Little League @ Thurber Park,100 Parker Street,Sherrill,13461,,2019-10-16,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Fitzie'S Irish Pub,9 Main Street,Binghamton,13905,,2025-06-16,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Camden Elementary (Sfp),1 Oswego Street,Camden,13316,,2025-08-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cortland,Forest Lake Campground,5816 Hickey Rd.,Truxton,13158,,2025-09-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Gloria Jean'S Coffees,420 Greece Ridge Center Drive,Rochester,14626,,2026-02-11,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Esl Ballpark-Pretzel Carts,1 Morrie  Silver Way,Rochester,14608,,2026-04-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Clinton,American Legion Montgomery Post 912,29 Pratt Street,Rouses Point,12979,,2025-09-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rensselaer,Sadudee Of Albany,55 Main Avenue,Wynantskill,12198,,2025-12-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Livingston,Dansville Jr. Mustang'S Stand,Babcock Park,Dansviille,14437,,2019-10-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Dunkin',361 East Route 59,West Nyack,10994,,2025-08-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Country Blessings,2884 Us Route 11,Whitney Point,13862,,2026-04-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,St. Luke'S Episcopal Church Parish H,5402 West Genesee Street,Camillus,13031,,2026-02-20,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Lakeside Deli & More,4888 St. Paul Boulevard,Rochester,14617,,2026-06-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Valley Central Middle School,1189 Route 17 K,Montgomery,12549,,2026-04-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Lime Kiln School,35 Lime Kiln  Road,Suffern,10901,,2025-11-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Rcsd-Abraham Lincoln School #22,595 Upper  Falls Boulevard,Rochester,14605,,2026-04-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Enzo'S Restaurant,451 Mamaroneck Avenue,Mamaroneck,10543,,2026-06-25,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ontario,Prosecco Italian Rest. & Jazz Bar,1550  Rochester  Road,Farmington,14425,,2025-12-16,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Bca Rohrbach Riverside #8,100 Exchange Boulevard,Rochester,14614,,2025-11-07,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rensselaer,Berlin Elementary School,53 School Street,Berlin,12022,,2025-12-01,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tioga,Big Dipper Ice Cream,434 Route,Apalachin,13732,,2026-03-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Andrea Cecilia'S Restaurant,2 Mill  Street,Newburgh,12550,,2026-04-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Saratoga,F.O. Eagles #2586,373 Crescent  Avenue,Saratoga Springs,12866,,2026-05-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Dock'S Grill @ Pirates Cove Marina,9170 Horseshoe Island Road,Clay,13041,,2025-06-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Putnam,Main Course,39 Chestnut Street,Cold Spring,10516,,2026-05-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Bru Kitchen And Sports Bar,3208 Latta Road,Rochester,14612,,2026-02-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cattaraugus,Perrysburg Diner,11846 Main St.,Perrysburg,14129,,2025-12-23,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tompkins,Maxie'S Supper Club,635 West  State Street,Ithaca,14850,,2026-04-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Tropical Smoothie Cafe,5308 West Genesee Street,Camillus,13031,,2026-02-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Esl Ballpark-Ice Cream Plus,1 Morrie  Silver Way,Rochester,14608,,2026-06-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Allen'S Florence Hotel Llc,11940 Osceola Road,Camden,13316,,2026-04-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Emil'S News,99 Washington Avenue,Albany,12210,,2026-05-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Saratoga,Olde Saratoga Bowl,116 Broad Street,Schuylerville,12871,,2025-12-31,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wayne,Wolcott Lanes,11989 Park Street,Wolcott,14590,,2025-04-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Riverside Pizza & Deli 2,74 North Street,Newburgh,12550,,2026-04-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Warren,"Pines, The",8119 State Route 9,Pottersville,12860,,2025-07-14,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wyoming,Attica Senior High School Band,3338 East Main St.,Attica,14011,,2025-11-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Livingston,Avon Braves Youth Football,191 Clinton  Street,Avon,14414,,2019-08-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Winners Circle,39 Post  Avenue,Westbury,11590,,2024-02-06,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Shalom Day Care Center,81 Jamaica  Avenue,Plainview,11803,,2024-07-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Mcdonald'S,3839 Hempstead  Turnpike,Levittown,11756,,2025-11-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cayuga,Stryker Homes Nutrition Site,2 Loop Road,Auburn,13021,,2025-04-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Starbucks Coffee #9308,3240 Hempstead  Turnpike,Levittown,11756,,2026-04-01,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tompkins,Little Venice Ristorante,49 East Main Street,Trumansburg,14886,,2026-06-04,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oswego,Vfw Post 7289-Pulaski,4815 Salina Street,Pulaski,13142,,2025-06-25,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Camroden Golf Club,8233 Camroden Road,Rome,13440,,2025-06-18,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Dave & Buster'S,1504 Old Country Road,Westbury,11590,,2026-02-06,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wyoming,Warsaw Middle/High School,81 West Court Street,Warsaw,14569,,2026-05-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Taco Bell #1746,3076 Long Beach  Road,Oceanside,11572,,2025-11-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Mcdonald'S,1050 Front Street,Uniondale,11553,,2026-01-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oswego,Athletic Complex Refreshment Stand,William Gillard Drive,Fulton,13069,,2024-10-16,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Delta Lake Inn,8524  Fish Hatchery Road,Rome,13440,,2025-12-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Hofstra University Student Center,1000 Fulton Avenue,Hempstead,11550,,2025-12-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Volunteers Of America,320-322 Chenango Street,Binghamton,13901,,2026-04-02,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Dunkin' Donuts (Rfd),1133 Mohawk Street,Utica,13501,,2026-02-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Warren,Abraham Wing School,120 Lawrence Street,Glens Falls,12801,,2025-07-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Rudy & Harry'S Hilltop Deli,60 Hillside Avenue,Williston Park,11596,,2025-12-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Dutchess,Sugar & Spice Cafe,"2600 South Road, Suite 40",Poughkeepsie,12601,,2026-06-11,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Copper City Community Connection,305 East Locust Street,Rome,13440,,2025-08-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Good Friend Liu,"50  Auert Ave., Suite 16",Utica,13502,,2026-01-07,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Jj'S Pub,669 North Winton Road,Rochester,14609,,2025-10-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Rcsd-U-Prep Charter School (Maple),1020 Maple Street,Rochester,14611,,2026-05-01,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Panera Bread (Greece),800 Greece Ridge Center Drive,Rochester,14626,,2026-01-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Delaware,Head Start - Sidney,21 Pleasant Street,Sidney,13838,,2023-01-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Otsego,Edmeston Central School Cafeteria,11 North Street,Edmeston,13335,,2024-07-23,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Tim Hortons (Roc-University),1250 University Avenue,Rochester,14607,,2025-12-11,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,New Great Peking Chinese Kitchen,317 5Th Avenue,Pelham,10803,,2026-04-23,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Dutchess,Roosevelt Theatre,4060 Albany Post  Road,Hyde Park,12538,,2025-11-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Ben'S Kosher Delicatessen Restaurant,7971 Jericho Turnpike,Woodbury,11797,,2025-07-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Bld Diner,2399 Boston Post Road,Larchmont,10538,,2025-11-03,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Steuben,Pat'S Pizzeria,104 Loder Street,Hornell,14843,,2025-12-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Hampton Inn (Penfield),950 South Panorama Trail,Rochester,14625,,2025-12-18,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Calzonez Broz,79 Court Street,Binghamton,13905,,2025-05-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Great Neck Sd - John L Miller Hs,35 Polo  Road,Great Neck,11023,,2025-09-18,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Abbott'S Custard/Catering (Port Roc),1000 North River Street,Rochester,14612,,2025-04-23,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Madison,Madison County Public Safety,North Court Street,Wampsville,13163,,2026-03-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Schenectady,Mcdonald'S #1006,1224 State Street,Schenectady,12304,,2026-01-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Little Caesars (Greece),3743 Dewey Avenue,Rochester,14616,,2026-04-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tompkins,Icsd - Enfield Elementary School,20 Enfield Main Road,Ithaca,14850,,2026-04-06,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Pita Pit,1100 Jefferson Road,Rochester,14623,,2025-12-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Subway (Hard Rd),944 Hard Road,Webster,14580,,2025-07-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Piccolo Gourmet,1632 Hillside  Avenue,New Hyde Park,11040,,2026-04-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wyoming,Three Sisters Cake And Bake Shop,3025 Ireland Road,Perry,14530,,2025-11-25,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Roma Restaurant,29 Columbus Avenue,Tuckahoe,10707,,2026-03-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Jonathans,534 Hooper Road,Endwell,13760,,2026-02-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Liona Restaurant,5 Broadway,Haverstraw,10927,,2026-05-07,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,"Cheesecake Factory, The",131 / 1417 Central Avenue,Albany,12205,,2026-01-20,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Pinti Field (Sfp),Sixth Street,Rome,13440,,2025-07-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,St Lawrence,Turner Inn,8667 State Highway 58,Hammond,13646,,2025-12-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ulster,Tosco'S Pizza 208,1431-1 State Route 208,Wallkill,12589,,2026-04-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,American Food & Vending @ Munson,1216 State Street,Utica,13502,,2026-05-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rensselaer,Gifford Barn,29 Bevis Road,Schaghticoke,12154,,2025-08-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Chipotle Mexican Grill (Irondequoit),1495 East Ridge Road,Rochester,14621,,2026-01-20,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Allegany,Wellsville Community Kitchen,99 Maple Avenue,Wellsville,14895,,2025-10-03,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Silver Creek Vol. Fireman'S Assoc.,23  Jackson Street,Silver Creek,14136,,2026-03-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orleans,Fancher-Hulberton-Murray Fire Dept.,3353 Hulberton Road,Holley,14470,,2024-07-23,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,New Dong Fang Restaurant,433 Main Street,Highland Falls,10928,,2026-02-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Silver Fox Adult Day Center,240 West Seneca Street,Manlius,13104,,2026-03-11,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Goshen Farmers Deli & Grill,27 West Main Street,Goshen,10924,,2026-05-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tompkins,Fusia Bento Bar,405 College Avenue,Ithaca,14850,,2026-02-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Binghamton High School Cafeteria,31 Main Street,Binghamton,13905,,2023-08-02,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Subway #31062,1185 Willis  Avenue,Albertson,11507,,2026-05-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Arbys Restaurant - Whit Pnt,2946 Us Route 11,Whitney Point,13862,,2026-01-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Psla Concession Stand,226 Magnolia Street,Syracuse,13204,,2025-09-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wayne,Wolcott Elks Lodge #1763,6161 West Port Bay  Road,Wolcott,14590,,2025-10-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Seneca,Ciccino'S Pizzeria,22 East Main Street,Waterloo,13165,,2026-05-04,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Pine Bush Chinese Restaurant,2412 Route 52,Pine Bush,12566,,2025-11-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Texas Lunch,57-69 Jersey Avenue,Port Jervis,12771,,2026-05-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,St Lawrence,Suny Potsdam Student Union,44 Pierrepont Avenue,Potsdam,13676,,2025-09-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,St Lawrence,Canton Central School,99 State Street,Canton,13617,,2026-05-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Loyal Order Moose Lodge #2301,11 S Dow St,Falconer,14733,,2025-12-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cayuga,Sakura Buffet,315 West Genesee Street,Auburn,13021,,2026-05-28,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tompkins,Five Guys Burgers & Fries - Ithaca,222 Elmira  Road,Ithaca,14850,,2026-01-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Seneca,Tastes Of Wine Country,1855 State Route 96A,Ovid,14521,,2025-08-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Eugenio Maria De Hostos (Zimbrich),27 Zimbrich Street,Rochester,14621,,2026-03-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Barker C.S. Concession Stand,1628 Quaker Road,Barker,14012,,2025-09-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cayuga,Nino'S Pizzeria,115 Main Street,Port Byron,13140,,2025-03-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wayne,Sugar & Slice Pizzeria,535 West Union  Street,Newark,14513,,2026-03-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,"Local Tap House Of Nyack, The",4 South Franklin Street,Nyack,10960,,2025-10-23,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,"Sitrin Child Care Facility, Inc.",3 Kavod Road,New Hartford,13413,,2025-07-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,J.D. George Elementary,Main Street,Verona,13478,,2026-06-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oswego,"Brandie'S Mr. Sub, Llc",4840 North Jefferson Street,Pulaski,13142,,2026-04-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Waa Girls Softball Concession Stand,1000 Ridge Road,Webster,14580,,2025-07-02,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Playhouse/Swillburger,820 South Clinton Avenue,Rochester,14620,,2026-03-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Brae Burn Country Club - Main Dining,39 Brae Burn Drive,Purchase,10577,,2025-10-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Shen Wang,48 Germonds Road,New City,10956,,2026-04-02,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Dutchess,Family Partnership Sed Feeding Site,29 North Hamilton  Street,Poughkeepsie,12601,,2025-07-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Subway (Spencerport),174 South Union Street,Spencerport,14559,,2026-03-16,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Lisle Inn,9014 Main Street,Lisle,13797,,2026-04-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Conklin Presbyterian School Age Pro,1175 Conklin Road,Conkiln,13748,,2018-05-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Relief Pitcher,197 Conklin Avenue,Binghamton,13903,,2026-06-01,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Nanuet Hotel,132 South Main Street,Nanuet,10954,,2026-01-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,United Church Of Fayetteville,310 East Genesee Street,Fayetteville,13066,,2026-03-16,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Hartland Volunteer Fire Co Auxiliary,8945 Ridge Road,Gasport,14067,,2025-04-28,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Rit-Artesano Bakery & Cafe,39 Lomb Memorial Drive,Rochester,14623,,2026-02-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Valhalla Crossing,2 Cleveland Street,Valhalla,10595,,2026-02-06,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Subway - Hooper Rd,519 Hooper Road,Endwell,13760,,2026-03-02,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Halo & Horns Catering,73 East Railroad Avenue,West Haverstraw,10993,,2026-05-11,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Dutchess,Kerygma Cafe,1072  Route 82,Hopewell Junction,12533,,2026-04-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ontario,Marcus Whitman Jr./Sr. High,4100 Baldwin  Road,Rushville,14544,,2026-04-06,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Rey Del Pollo,90 South Franklin Street,Nyack,10960,,2026-05-20,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,American Legion Post #175,68 Berry Hill Road,Syosset,11791,,2023-06-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Diwan Barbeque Restaurant,37 Shore Road,Port Washington,11050,,2024-03-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Lemoncello Restaurant & Catering,137 West Commercial Street,East  Rochester,14445,,2026-05-28,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Tiger'S Lair At Hewes Ed Ctr,2615 North Maple Street,Ashville,14710,,2025-10-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Eurest Dining Services @ Helio Healt,847 James Street,Syracuse,13203,,2026-02-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Olive Falafel And Deli,670 Route 211 East,Middletown,10940,,2026-05-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Finger Bullet,1692 Bennett Street,Utica,13502,,2024-12-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Bcc/Bc Center Day Care,901 Front Street,Binghamton,13905,,2026-02-02,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Clinton,Gus' Red Hots,5 Commodore Thomas Macdonough Hwy,Plattsburgh,12901,,2025-11-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Dunkin' (Roc-Mt Hope Av),1500 Mt Hope Avenue,Rochester,14620,,2025-11-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,"Tavolo Italian Restaurant, A",42 Chenango Bridge Road,Binghamton,13901,,2025-10-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Fiesta Mexico,380 Route 303,Orangeburg,10962,,2026-05-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Chipotle Mexican Grill (Henrietta),4775 West Henrietta Road,Henrietta,14467,,2026-02-03,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Mcdonald'S - 106 Wolf Rd,106 Wolf Road,Albany,12205,,2025-11-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Castaways Restaurant,244 Lake Road,Webster,14580,,2026-05-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Rochester Elks Lodge #24,3525 East Henrietta Road,Henrietta,14467,,2025-12-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,St Lawrence,Subway 31429,375 S. Main Street,Massena,13662,,2025-06-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Dunkin Donuts,33 Lincoln Avenue,Pelham,10803,,2026-02-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Cfh - Center For Recovery,3 Commercial Place,Newburgh,12550,,2015-11-25,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,St Lawrence,Howie'S,809 New York Avenue,Ogdensburg,13669,,2026-02-20,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,"Dicastro'S Brick Oven, Llc",615 Erie Boulevard West,Rome,13440,,2024-12-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ontario,Cedar Inn,3583 Lennox  Avenue,Geneva,14456,,2026-01-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Otsego,Mcdonald'S Southside #6871,4958 State Hwy 23,Oneonta,13820,,2026-06-18,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Kosciuszko Polish Home Association,252 Nevins St,Dunkirk,14048,,2025-09-03,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Clymer Central School,8672 East Main  Street,Clymer,14724,,2026-04-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Alfonso'S Pizzeria,835 Route 211 East,Middletown,10940,,2026-04-01,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wayne,Sodus Jr/Sr High School,54 Mill  Street,Sodus,14551,,2026-02-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Subway #30378,78 Brookside Avenue,Chester,10918,,2026-04-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Schuyler,Art & Nancy'S Pizza And Sub Shop,204 9Th Street,Watkins Glen,14891,,2026-05-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Chopstick Asian Bistro,377 Windsor Highway,New Windsor,12553,,2026-05-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,East Avenue Taichi Tea,130 East Avenue,Rochester,14604,,2026-01-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Nyack Diner,41 Route 59,Nyack,10960,,2026-03-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rensselaer,"Dragon Iii, A",564  Hoosick Street,Troy,12180,,2025-11-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Saratoga,Saratoga Central Catholic School,247 Broadway,Saratoga Springs,12866,,2026-05-14,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Popeyes,1636 Grand Avenue,Baldwin,11510,,2026-03-16,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cattaraugus,Wingate Inn,11 Mill Street,Ellicottville,14731,,2025-10-07,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Chili Family Diner,945 Chili Avenue,Rochester,14611,,2026-06-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Saratoga,Rockwell Falls General Store,4123 Rockwell  Street,Hadley,12835,,2025-01-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Saratoga,Villa Pizza,"22 Clifton Country Rd., Suite 81",Clifton Park,12065,,2025-08-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tompkins,Courtyard Ithaca Airport,29 Thornwood Drive,Lansing,14882,,2026-05-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Ukrainian Cultural Center Of Roc,1040 Jackson Road,Webster,14580,,2025-12-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Giuseppe'S Take Out & Catering,50 Spencerport Road,Rochester,14606,,2026-06-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Schoharie,Cobleskill Diner Llc,117-1  Granite  Drive,Cobleskill,12043,,2026-01-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,American Legion Post #1846,9379 State Route 46,Westernville,13486,,2026-03-18,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,"& M Deli, A",15 Palisade Avenue,Yonkers,10701,,2026-04-02,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Saratoga,Saratoga Flat Track,267 Union Avenue,Saratoga Springs,12866,,2025-08-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ontario,Homewood Suites,575 Fishers Station  Drive,Victor,14564,,2025-08-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Herkimer,Mt. Markham - Senior High School,545 Fairground Road,West Winfield,13491,,2026-04-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Roar,621 Culver Road,Rochester,14609,,2025-11-06,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Dutchess,Matchbox Cafe,6242 Route 9,Rhinebeck,12572,,2025-05-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cayuga,Track Cinema,1579 Clark Street Road,Auburn,13021,,2026-03-06,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Cam'S New York Pizza,112 Kasson Road,Camillus,13031,,2026-02-20,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Salt City Coffee At Lemoyne,1150 Salt Springs Road,Syracuse,13214,,2026-06-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wyoming,Wyoming Hook&Ladder Ladies Aux,26 Maple Street,Wyoming,14591,,2025-09-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Dutchess,Eleven - 11 Grille & Spirits,1111 Main Street,Fishkill,12524,,2026-02-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Warren,Dunkin Donuts - Exit 20 Mobil,1412 State Route 9,Queensbury,12845,,2026-03-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Little Caesar'S Pizza,4976 Commercial Drive,Yorkville,13495,,2026-01-18,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,St Lawrence,Sipz,962 Us Highway 11,Gouverneur,13642,,2026-04-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Buddha'S Burgers & Hot & Catering,"1600 Lexington Ave, Ste 603",Rochester,14606,,2026-03-04,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Winners' Academy,711  Dogwood Avenue,West Hempstead,11552,,2026-02-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Seneca,F-N-A Good Pizza,3-5 South Virginia Street,Waterloo,13165,,2025-10-20,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Yates,Lakeside Country Club,"145 Route 54, East Lake Road",Penn Yan,14527,,2026-06-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Texas Roadhouse (Henrietta),3150 West Henrietta Road,Rochester,14623,,2026-06-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Hendrick'S Tavern,1305 Old Northern Boulevard,Roslyn,11576,,2026-06-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Fire Fox Resorts,350 Rabbit Path Road,Lisle,13797,,2026-06-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Bowl Boss,"3439 West Genesee Street, Ste 50",Syracuse,13219,,2026-03-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Sparky'S Pub & Grill,2680 Main  Street,Whitney Point,13862,,2026-04-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tompkins,Dunkin Donuts - Groton,202 Main Street,Groton,13073,,2025-04-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cattaraugus,Little Caesars Restaurant,840 R C Hoag Drive,Salamanca,14779,,2025-10-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Big Back Takeout,459 Jay Street,Rochester,14611,,2025-09-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Seneca,Frank Knight School,98 Clinton Street,Seneca Falls,13148,,2026-02-06,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Taco Tico Stand,308 Dupont Avenue,Newburgh,12550,,2026-06-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Dutchess,Aloys Garden Restaurant,157 Garden  Street,Poughkeepsie,12601,,2026-01-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wayne,Charlie Riedel'S/Ontario,552 Route 104,Ontario,14519,,2026-03-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Cherry'S Restaurant,280 North Union Street,Rochester,14609,,2025-05-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tompkins,Ic - Campus Center Cafe,953 Danby  Road,Ithaca,14850,,2026-03-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Boonville Senior Center,105 Ann Street,Boonville,13309,,2024-12-16,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ulster,Bread Alone Bakery,22 Mill Hill Road,Woodstock,12498,,2026-03-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Tapas 177 Lounge & Catering,177 St. Paul Street,Rochester,14604,,2026-02-11,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Sun & Surf Beach Club,2189 Atlantic  Boulevard,Atlantic Beach,11509,,2026-06-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Dunkin / Jimmy John'S,2944 Hempstead Turnpike,Levittown,11756,,2026-01-20,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Round Hill Elementary School,1314 Route 208,Washingtonville,10992,,2026-01-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Benihana,920 Merchants Concourse,Westbury,11590,,2025-02-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Cerio'S Tavern,1711 Grant Boulevard,Syracuse,13208,,2025-07-07,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Bellvale Kitchen,359 Gibson Hill Road,Chester,10918,,2026-04-14,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Wendy'S - Vestal Pkwy,3737 Vestal Parkway,Vestal,13850,,2026-02-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Philly Bar And Grill,622 Watervliet Shaker Road,Latham,12110,,2025-12-04,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Glauber'S Bakery & Appetizing,126 Maple Avenue,Spring Valley,10977,,2026-01-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Schenectady,Dunkin' 266 Saratoga Rd.,266 Saratoga Road,Glenville,12302,,2026-03-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Monroe Community College,1000 East Henrietta Road,Brighton,14623,,2025-07-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Perlo'S Restaurant,202 North Washington Street,East  Rochester,14445,,2026-04-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Saratoga,Wendy'S- Wilton,3075 Route 50,Saratoga Springs,12866,,2026-02-04,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Bruegger'S Bagels Bakery #3891,3065 Erie Boulevard East,Syracuse,13224,,2026-04-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wayne,Mark'S Pizzeria/Walworth,2263  Walworth-Marion Road,Walworth,14568,,2026-05-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Hornets Nest (The),206 Brooklea Drive,Fayetteville,13066,,2026-03-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Creative Beginnings Childcare,2881 Culver Road,Rochester,14622,,2025-03-25,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Madison,Dunns Irish Grill,137 Phelps Street,Oneida,13421,,2026-05-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Cassan'S Catering,626 West Main Street,Rochester,14611,,2026-05-28,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Fabius-Pompey Sports Boosters Conces,1211 Mill Street,Fabius,13063,,2025-10-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Archangel School,2400 Chili Avenue,Rochester,14624,,2026-04-28,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Town Of Wheatfield/Niagara Nutrition,2790 Church Road,North Tonawanda,14120,,2025-10-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Bbg'S Entertainment Venue,4951 Commercial Drive,Yorkville,13495,,2025-04-11,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Nassau,Garden City Nursery School,50 Cherry Valley Avenue,Garden City,11530,,2025-06-11,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ontario,Tai Chi Bubble Tea,697  Eastview Mall,Victor,14564,,2026-04-28,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Cosmo'S Restaurant & Tavern,7 West Main Street,Honeoye Falls,14472,,2026-06-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Birtchy'S,567 Conklin Road,Binghamton,13903,,2026-03-20,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Stone'S Countryside Tavern,6120 Buffalo Road,Churchville,14428,,2026-06-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ontario,North St Elementary School,400 West North  Street,Geneva,14456,,2025-07-30,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Khatri Biryani @ More,489 South Avenue,Rochester,14620,,2026-02-18,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Dutchess,Chinatown Restaurant,Nine Mall Plaza,Wappingers,12590,,2026-03-04,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wayne,Sodus Elementary School,6264  State Route 88,Sodus,14551,,2026-02-24,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Nutrition Fix,8395 Oswego  Road,Baldwinsville,13027,,2026-06-01,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Goosepark Boba & Wings,1900 South Clinton Avenue,Rochester,14618,,2025-12-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Dunkin' (Greece-834 Long Pond-Stoney,834 Long Pond Road,Rochester,14612,,2026-02-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Otsego,Molly'S Famous New York Pizza,5006 Route 23 Southside,Oneonta,13820,,2025-06-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,St Lawrence,Duff'S,935 Ford Street,Ogdensburg,13669,,2026-05-28,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Madison,Fitzgeralds Firehouse Hot Dogs,1081 Northside Shopping Center,Oneida,13421,,2026-05-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Hilton Garden Inn (Pittsford),800 Pittsford-Victor Road,Pittsford,14534,,2026-06-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Saratoga,Legends @ Spac - Vip Kitchen,108 Avenue Of The Pines,Saratoga Springs,12866,,2025-09-07,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Brockport Area Veterans Club,222 West Avenue,Brockport,14420,,2025-10-06,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Eat Well Food Services,61 Clinton Road,New Hartford,13413,,2025-09-03,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oswego,Dunkin Donuts-Fulton-West,9 West First Street South,Fulton,13069,,2026-02-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,La Terrazza,291 South Main Street,New City,10956,,2025-12-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Trattoria Da Vittorio,453 Piermont Avenue,Piermont,10968,,2026-05-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Columbia,Pico De Gallo,48 Riverview Street,Stuyvesant,12173,,2024-12-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Laurey'S Pizzeria Inc.,8205 Seneca  Turnpike,Clinton,13323,,2026-01-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ontario,Warfields Restaurant & Bakery,7 Main  Street,Clifton Springs,14432,,2026-03-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,1872 Cafe,431 West Main Street,Rochester,14608,,2025-07-16,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Burger King #309,100 Pike Street,Port Jervis,12771,,2026-05-01,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Bc Bagels,1435 Upper Front Street,Binghamton,13901,,2026-01-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Delaware,Bluestone,85 Scotch Mountain Road,Delhi,13753,,2026-05-28,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Tommy'S Deli & Cafe,586 North Broadway,White Plains,10603,,2026-05-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Montgomery,Shorty'S,51 Broad Street,Amsterdam,12010,,2025-09-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Tioga,State Line Auto Auction,830 South Talmadge Hill Road,Waverly,14892,,2025-09-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Putnam,Putnam Valley Senior Citizens Center,117 Town Park  Lane,Putnam Valley,10579,,2025-03-31,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Ko-Bq Commissary,215 Alexander Street,Rochester,14607,,2026-04-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,The Lodge,1405 Olde Rd,Clymer,14724,,2026-01-31,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Warren,Main Street Ice Cream Parlor,6339 State Route 9,Chestertown,12817,,2026-01-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,I-90 Travel Plaza Dunkin',Mm 336 East 1-90 Nys Thruway,West Henrietta,14586,,2025-08-01,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Sullivan,North Branch Inn,869 N Branch Hortonville Road,North Branch,12766,,2025-09-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ontario,Uncle Joe'S Pizzeria,99 North Genesee  Street,Geneva,14456,,2026-01-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oswego,Oswego Middle School,Mark Fitzgibbons Drive,Oswego,13126,,2026-03-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cayuga,Cobblestone Inn,537 State Route 38,Locke,13092,,2026-05-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Seneca,Bonavista State Park Golf Course,7194 County Road 132,Ovid,14521,,2025-08-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Ice S'Coop,1350 Pittsford Mendon Road,Mendon,14506,,2025-05-16,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Corn Hill Waterfront Center,280 Exchange Boulevard,Rochester,14608,,2025-06-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ulster,El Rancho Restaurant,2904 Route 32,Saugerties,12477,,2025-12-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Schenectady,Village Tavern & Restaurant,201 Vley Road,Scotia,12302,,2024-03-14,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Marcellus Lanes,4325 Slate Hill Road,Marcellus,13108,,2026-04-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Rendeivous,250 Route 59,Suffern,10901,,2026-01-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Bangkok Station Nyack,12 Park Street,Nyack,10960,,2026-04-06,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Webster Montessori School,1310 Five Mile Line Road,Webster,14580,,2026-02-11,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Community Place Of Rochester,500 Carter Street,Rochester,14621,,2025-11-17,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Albany,Starbucks Coffee - 243 Wolf Rd,243 Wolf Road,Albany,12205,,2025-02-14,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Mexican Zingo,104 Windermere Avenue,Greenwood Lake,10925,,2026-05-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Genesee,Darien Lake Fse,9993 Alleghany Road,Darien Center,14040,,2025-07-15,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Dunkin' Donuts,580 Route  303,Blauvelt,10913,,2025-11-07,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Ramona'S Cafe Of West Nyack,11 Strawtown Road,West Nyack,10994,,2026-04-01,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Knuckleheads Brewhouse,7362 East Main Street,Westmoreland,13490,,2026-02-19,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Upstate Caring Partners (Sfp),130 Brookley  Road,Rome,13440,,2025-08-11,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Genesee,Xing Wang Chinese Restaurant,110 West Main Street,Leroy,14482,,2026-04-06,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Rino'S Eatery,55 Depot Street,Pine Bush,12566,,2026-06-23,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Old Olcott Beach Fire Station,1573 Lockport Street,Olcott,14126,,2026-05-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,El Tropical Bar & Grill,77 Mill Street,Newburgh,12550,,2023-12-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Shelly'S Pizza,126 Maple Avenue,Spring Valley,10977,,2026-03-04,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Sodexo @ Utica Universi Bistro),1600 Burrstone Road,Utica,13502,,2026-04-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Putnam,Villa Barone Hilltop Manor,466 Route 6,Mahopac,10541,,2025-11-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Binghamton High School Cafeteria,31 Main Street,Binghamton,13905,,2025-09-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Putnam,Cathryn'S Tuscan Grill,91   Main Street,Cold Spring,10516,,2025-12-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Madison,Oasis Comedy Theatre,125-129 Farrier Avenue,Oneida,13421,,2025-12-12,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cattaraugus,Summer Fps - Allegany-Limestone Elem,120 Maple  Avenue,Allegany,14706,,2025-07-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oneida,Gingerbread Bake Shop,3991 Oneida Street,New Hartford,13413,,2026-04-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Caraglio'S Pizza & Catering (W Greec,1169 North Greece Road,Rochester,14626,,2025-10-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Oswego,Fajita Grill - Oswego,244 West Seneca Street,Oswego,13126,,2026-04-20,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Sleepy Hollow Country Club - Drink H,777 Albany Post Road,Scarborough,10510,,2025-10-07,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Westchester,Ad Sports Bar,93 Gramatan Avenue,Mount Vernon,10550,,2026-03-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Nanuet Senior High School,103 Church Street,Nanuet,10954,,2026-04-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Hempstead School,New Hempstead  Road,Spring Valley,10977,,2025-11-25,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Dice Versa,280 East Broad Street,Rochester,14604,,2025-12-23,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,Family Farm Ice Cream,253 Tower Drive,Middletown,10940,,2025-08-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cattaraugus,Red House Snack Stand,Allegany State Park,Salamanca,14779,,2025-08-27,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Finger Lakes Coffee Roasters (Pitts),3349 Monroe Avenue,Rochester,14618,,2026-03-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Ontario,Waterside Wine Bar,125 Main  Street,Phelps,14532,,2025-10-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Orange,North Plank Road Tavern,30 Plank Road,Newburgh,12550,,2025-10-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Gates Chili Csd-Middle School,2 Spartan Way,Rochester,14624,,2026-02-25,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Syr. Academy Of Science High School,1001 Park Avenue,Syracuse,13204,,2026-03-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Rogers Pub,200 North Nanticoke Avenue,Endicott,13760,,2025-05-14,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Saratoga,Corcoran'S Towpath Tavern,33 Saratoga  Avenue,Waterford,12188,,2025-10-14,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Clinton,Head Start Program - Nac,5574 State Route 11,"Ellenburg Depot, Ny",12935,,2026-05-21,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Barker Elementary School Cafeteria,1628 Quaker Road,Barker,14012,,2026-02-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Good Time Saloon,590 Fairmount Avenue,Jamestown,14701,,2026-02-06,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Rockland,Nyack Hot Bagels,348 Route 59,Central Nyack,10960,,2026-01-05,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Niagara,Wilson Cent Mid/Sr High School Caf.,374 Lake Street,Wilson,14172,,2026-03-02,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Broome,Central Baptist & Christian Academy,1606 Ny Route 12,Binghamton,13901,,2025-09-29,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Wayne,Palmyra Head Start,120 East Main Street,Palmyra,14522,,2025-07-02,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Onondaga,Tang Flavor Chinese Food,413 South Warren Street,Syracuse,13202,,2026-03-26,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Cattaraugus,Smiles Sundaes,11583 Sparks Road,Freedom,14065,,2026-04-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Mcc-Production Kitchen & Catering,1000 East Henrietta Road,Rochester,14623,,2026-02-13,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Commissary-Bougie Street Chef,250 East Main Street,Rochester,14604,,2024-11-08,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Monroe,Rcsd-U-Prep Charter School (Lake),1290 Lake Avenue,Rochester,14613,,2025-10-23,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Saratoga,Shenendehowa High School East,970 Route 146,Clifton Park,12065,,2026-06-09,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Schoharie,Sharon Springs Senior Meal Site,137 Beechwood Road,Sharon Springs,13459,,2026-04-22,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,Chautauqua,Tim Hortons (92 Lakeshore Dunkirk),92  Lake Shore Drive East,Dunkirk,14048,,2026-02-23,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30
+New York,NY,St Lawrence,Hammond Central School,51 S. Main Street,Hammond,13646,,2026-03-10,Review,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,2026-06-30

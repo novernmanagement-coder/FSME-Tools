@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ProctorHub — Expanded Contact List</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#f4f7fa;color:#1a2a3a;}
+.page{max-width:1200px;margin:0 auto;padding:32px 20px 80px;}
+
+/* HEADER */
+.ph-header{display:flex;align-items:center;gap:16px;margin-bottom:32px;padding-bottom:20px;border-bottom:1px solid #d8e4f0;}
+.ph-title h1{font-size:22px;color:#1a3a5c;font-weight:700;}
+.ph-title p{font-size:13px;color:#5a6a7a;margin-top:4px;}
+.tier-badge{background:#1a3a5c;color:#EF9F27;font-size:10px;font-weight:700;letter-spacing:0.14em;padding:5px 14px;border-radius:20px;white-space:nowrap;}
+
+/* LEGEND */
+.legend{display:flex;gap:20px;margin-bottom:20px;flex-wrap:wrap;align-items:center;}
+.legend-item{display:flex;align-items:center;gap:6px;font-size:12px;color:#5a6a7a;}
+.dot{width:10px;height:10px;border-radius:50%;flex-shrink:0;}
+.dot-high{background:#22c55e;}
+.dot-medium{background:#3b82f6;}
+.dot-low{background:#9ca3af;}
+.dot-review{background:#e5e7eb;border:1px solid #d1d5db;}
+
+/* FILTERS */
+.filters{display:flex;gap:12px;margin-bottom:20px;flex-wrap:wrap;}
+.filter-group{display:flex;flex-direction:column;gap:4px;}
+.filter-group label{font-size:10px;letter-spacing:0.1em;color:#5a6a7a;font-weight:600;text-transform:uppercase;}
+.filter-select, .filter-input{padding:8px 12px;border:1px solid #d8e4f0;border-radius:6px;font-size:13px;color:#1a2a3a;background:#fff;min-width:160px;}
+.filter-select:focus, .filter-input:focus{outline:none;border-color:#1a3a5c;}
+.filter-btn{padding:8px 20px;background:#1a3a5c;color:#EF9F27;border:none;border-radius:6px;font-size:13px;font-weight:600;cursor:pointer;align-self:flex-end;}
+.filter-btn:hover{background:#24527f;}
+.reset-btn{padding:8px 16px;background:transparent;color:#5a6a7a;border:1px solid #d8e4f0;border-radius:6px;font-size:13px;cursor:pointer;align-self:flex-end;}
+.reset-btn:hover{border-color:#1a3a5c;color:#1a3a5c;}
+
+/* STATS BAR */
+.stats-bar{display:flex;gap:16px;margin-bottom:20px;flex-wrap:wrap;}
+.stat{background:#fff;border:1px solid #d8e4f0;border-radius:8px;padding:10px 16px;text-align:center;min-width:90px;}
+.stat-val{font-size:22px;font-weight:700;color:#1a3a5c;}
+.stat-val.high{color:#22c55e;}
+.stat-val.medium{color:#3b82f6;}
+.stat-val.low{color:#9ca3af;}
+.stat-label{font-size:10px;color:#5a6a7a;letter-spacing:0.08em;text-transform:uppercase;margin-top:2px;}
+
+/* TABLE */
+.table-wrap{background:#fff;border:1px solid #d8e4f0;border-radius:10px;overflow:hidden;}
+.tbl{width:100%;border-collapse:collapse;}
+.tbl th{background:#1a3a5c;color:#EF9F27;font-size:11px;letter-spacing:0.08em;text-transform:uppercase;padding:10px 14px;text-align:left;white-space:nowrap;}
+.tbl td{padding:10px 14px;font-size:13px;border-bottom:1px solid #f0f5fb;vertical-align:middle;}
+.tbl tr:last-child td{border-bottom:none;}
+.tbl tr:hover td{background:#f8fafd;}
+
+.priority-pill{display:inline-flex;align-items:center;gap:5px;padding:3px 10px;border-radius:20px;font-size:11px;font-weight:600;white-space:nowrap;}
+.pill-high{background:#dcfce7;color:#166534;}
+.pill-medium{background:#dbeafe;color:#1e40af;}
+.pill-low{background:#f3f4f6;color:#4b5563;}
+.pill-review{background:#fafafa;color:#9ca3af;border:1px solid #e5e7eb;}
+
+.est-name{font-weight:500;color:#1a2a3a;}
+.est-addr{font-size:11px;color:#5a6a7a;margin-top:2px;}
+
+/* PAGINATION */
+.pagination{display:flex;align-items:center;gap:8px;margin-top:16px;justify-content:center;flex-wrap:wrap;}
+.page-btn{padding:6px 12px;border:1px solid #d8e4f0;border-radius:6px;font-size:12px;cursor:pointer;background:#fff;color:#1a2a3a;}
+.page-btn:hover{border-color:#1a3a5c;}
+.page-btn.active{background:#1a3a5c;color:#EF9F27;border-color:#1a3a5c;}
+.page-info{font-size:12px;color:#5a6a7a;}
+
+.no-results{text-align:center;padding:40px;color:#5a6a7a;font-size:14px;}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="ph-header">
+    <div class="ph-title">
+      <h1>ProctorHub — Expanded Contact List</h1>
+      <p>Food establishments sorted by training and certification priority</p>
+    </div>
+    <div class="tier-badge">&gt; Full Circle — Entrepreneur Package</div>
+  </div>
+
+  <div class="legend">
+    <div class="legend-item"><div class="dot dot-high"></div> High Priority — go now</div>
+    <div class="legend-item"><div class="dot dot-medium"></div> Medium Priority — go soon</div>
+    <div class="legend-item"><div class="dot dot-low"></div> Low Priority — worth a visit</div>
+    <div class="legend-item"><div class="dot dot-review"></div> Review — needs more info</div>
+  </div>
+
+  <div class="filters">
+    <div class="filter-group">
+      <label>State</label>
+      <select class="filter-select" id="filter-state" onchange="applyFilters()">
+        <option value="">All States</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label>County</label>
+      <select class="filter-select" id="filter-county" onchange="applyFilters()">
+        <option value="">All Counties</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label>Priority</label>
+      <select class="filter-select" id="filter-priority" onchange="applyFilters()">
+        <option value="">All Priorities</option>
+        <option value="High">🟢 High</option>
+        <option value="Medium">🔵 Medium</option>
+        <option value="Low">⚫ Low</option>
+        <option value="Review">❓ Review</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label>Search</label>
+      <input type="text" class="filter-input" id="filter-search" placeholder="Name or city..." oninput="applyFilters()">
+    </div>
+    <button class="reset-btn" onclick="resetFilters()">Reset</button>
+  </div>
+
+  <div class="stats-bar">
+    <div class="stat"><div class="stat-val" id="stat-total">—</div><div class="stat-label">Total</div></div>
+    <div class="stat"><div class="stat-val high" id="stat-high">—</div><div class="stat-label">High</div></div>
+    <div class="stat"><div class="stat-val medium" id="stat-medium">—</div><div class="stat-label">Medium</div></div>
+    <div class="stat"><div class="stat-val low" id="stat-low">—</div><div class="stat-label">Low</div></div>
+  </div>
+
+  <div class="table-wrap">
+    <table class="tbl">
+      <thead>
+        <tr>
+          <th>Priority</th>
+          <th>Establishment</th>
+          <th>City</th>
+          <th>County</th>
+          <th>State</th>
+          <th>ZIP</th>
+          <th>Last Inspection</th>
+        </tr>
+      </thead>
+      <tbody id="tbl-body"></tbody>
+    </table>
+  </div>
+
+  <div class="pagination" id="pagination"></div>
+
+</div>
+
+<script>
+// Embed the CSV data directly
+const CSV_DATA = `State,StateCode,County,Establishment,Address,City,ZIP,Phone,LastInspection,Priority,InspectionURL,LastUpdated
+PLACEHOLDER`;
+
+let allRecords = [];
+let filtered = [];
+const PAGE_SIZE = 50;
+let currentPage = 1;
+
+function parseCSV(text) {
+  const lines = text.trim().split('\n');
+  const headers = lines[0].split(',').map(h => h.replace(/"/g, '').trim());
+  return lines.slice(1).map(line => {
+    const vals = [];
+    let cur = '', inQ = false;
+    for (let c of line) {
+      if (c === '"') { inQ = !inQ; }
+      else if (c === ',' && !inQ) { vals.push(cur.trim()); cur = ''; }
+      else cur += c;
+    }
+    vals.push(cur.trim());
+    const obj = {};
+    headers.forEach((h, i) => obj[h] = (vals[i] || '').replace(/"/g, ''));
+    return obj;
+  }).filter(r => r.Establishment);
+}
+
+function priorityOrder(p) {
+  return {High:0, Medium:1, Low:2, Review:3}[p] ?? 3;
+}
+
+function pillHTML(p) {
+  const cls = {High:'pill-high', Medium:'pill-medium', Low:'pill-low', Review:'pill-review'}[p] || 'pill-review';
+  const dot = {High:'🟢', Medium:'🔵', Low:'⚫', Review:'❓'}[p] || '❓';
+  return `<span class="priority-pill ${cls}">${dot} ${p}</span>`;
+}
+
+function populateFilters() {
+  const states = [...new Set(allRecords.map(r => r.State))].sort();
+  const stateEl = document.getElementById('filter-state');
+  states.forEach(s => {
+    const o = document.createElement('option');
+    o.value = s; o.textContent = s;
+    stateEl.appendChild(o);
+  });
+}
+
+function updateCountyFilter() {
+  const state = document.getElementById('filter-state').value;
+  const countyEl = document.getElementById('filter-county');
+  const current = countyEl.value;
+  countyEl.innerHTML = '<option value="">All Counties</option>';
+  const counties = [...new Set(
+    allRecords.filter(r => !state || r.State === state).map(r => r.County)
+  )].sort();
+  counties.forEach(c => {
+    const o = document.createElement('option');
+    o.value = c; o.textContent = c;
+    countyEl.appendChild(o);
+  });
+  if (counties.includes(current)) countyEl.value = current;
+}
+
+function applyFilters() {
+  updateCountyFilter();
+  const state = document.getElementById('filter-state').value;
+  const county = document.getElementById('filter-county').value;
+  const priority = document.getElementById('filter-priority').value;
+  const search = document.getElementById('filter-search').value.toLowerCase();
+
+  filtered = allRecords.filter(r => {
+    if (state && r.State !== state) return false;
+    if (county && r.County !== county) return false;
+    if (priority && r.Priority !== priority) return false;
+    if (search && !r.Establishment.toLowerCase().includes(search) && !r.City.toLowerCase().includes(search)) return false;
+    return true;
+  });
+
+  currentPage = 1;
+  renderStats();
+  renderTable();
+  renderPagination();
+}
+
+function resetFilters() {
+  document.getElementById('filter-state').value = '';
+  document.getElementById('filter-county').value = '';
+  document.getElementById('filter-priority').value = '';
+  document.getElementById('filter-search').value = '';
+  applyFilters();
+}
+
+function renderStats() {
+  document.getElementById('stat-total').textContent = filtered.length.toLocaleString();
+  document.getElementById('stat-high').textContent = filtered.filter(r => r.Priority === 'High').length;
+  document.getElementById('stat-medium').textContent = filtered.filter(r => r.Priority === 'Medium').length;
+  document.getElementById('stat-low').textContent = filtered.filter(r => r.Priority === 'Low').length;
+}
+
+function renderTable() {
+  const tbody = document.getElementById('tbl-body');
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const page = filtered.slice(start, start + PAGE_SIZE);
+
+  if (!page.length) {
+    tbody.innerHTML = '<tr><td colspan="7" class="no-results">No results found.</td></tr>';
+    return;
+  }
+
+  tbody.innerHTML = page.map(r => `
+    <tr>
+      <td>${pillHTML(r.Priority)}</td>
+      <td>
+        <div class="est-name">${r.Establishment}</div>
+        <div class="est-addr">${r.Address}</div>
+      </td>
+      <td>${r.City}</td>
+      <td>${r.County}</td>
+      <td>${r.StateCode}</td>
+      <td>${r.ZIP}</td>
+      <td>${r.LastInspection ? r.LastInspection.substring(0,10) : ''}</td>
+    </tr>
+  `).join('');
+}
+
+function renderPagination() {
+  const total = Math.ceil(filtered.length / PAGE_SIZE);
+  const el = document.getElementById('pagination');
+  if (total <= 1) { el.innerHTML = ''; return; }
+
+  let html = '';
+  if (currentPage > 1) html += `<button class="page-btn" onclick="goPage(${currentPage-1})">← Prev</button>`;
+  
+  const start = Math.max(1, currentPage - 2);
+  const end = Math.min(total, currentPage + 2);
+  for (let i = start; i <= end; i++) {
+    html += `<button class="page-btn ${i===currentPage?'active':''}" onclick="goPage(${i})">${i}</button>`;
+  }
+  
+  if (currentPage < total) html += `<button class="page-btn" onclick="goPage(${currentPage+1})">Next →</button>`;
+  html += `<span class="page-info">Page ${currentPage} of ${total} (${filtered.length.toLocaleString()} records)</span>`;
+  el.innerHTML = html;
+}
+
+function goPage(n) {
+  currentPage = n;
+  renderTable();
+  renderPagination();
+  window.scrollTo(0, 0);
+}
+
+// Load CSV from GitHub raw URL
+async function loadData() {
+  try {
+    const url = 'https://raw.githubusercontent.com/novernmanagement-coder/FSME-Tools/main/FoodSafetyMadeEasy/output/inspections.csv';
+    const res = await fetch(url);
+    const text = await res.text();
+    allRecords = parseCSV(text);
+    allRecords.sort((a, b) => priorityOrder(a.Priority) - priorityOrder(b.Priority));
+    filtered = [...allRecords];
+    populateFilters();
+    renderStats();
+    renderTable();
+    renderPagination();
+  } catch(e) {
+    document.getElementById('tbl-body').innerHTML = 
+      '<tr><td colspan="7" class="no-results">Unable to load data. Please check your connection.</td></tr>';
+  }
+}
+
+loadData();
+</script>
+</body>
+</html>
