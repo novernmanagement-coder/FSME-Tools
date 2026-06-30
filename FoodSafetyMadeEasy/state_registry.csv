@@ -1,0 +1,21 @@
+State,StateCode,SourceType,SourceURL,Notes,Status
+Indiana,IN,CSV_DOWNLOAD,https://hub.mph.in.gov/dataset/food-establishment-inspections,MPH portal monthly updates,Active
+Ohio,OH,HTML_TABLE,https://licenses.ohio.gov/License/LicenseSearch,FSO license search by county,Pending
+Florida,FL,API,https://www.myfloridalicense.com/wl11.asp,DBPR API food service,Pending
+Texas,TX,CSV_DOWNLOAD,https://www.dshs.texas.gov/foods/compliance-data,DSHS compliance data,Pending
+Illinois,IL,HTML_TABLE,https://dph.illinois.gov/topics-services/environmental-health/food/inspection-program,County level,Pending
+Michigan,MI,CSV_DOWNLOAD,https://michiganlegislature.org/mileg.aspx,MiDEAL open data,Pending
+Wisconsin,WI,API,https://datcp.wi.gov/Pages/Programs_Services/FoodSafetyInspections.aspx,DATCP portal,Pending
+Minnesota,MN,CSV_DOWNLOAD,https://mn.gov/mdh/food-safety,MDH open data,Pending
+Iowa,IA,HTML_TABLE,https://hfd.iowa.gov/HistoricalInspection/GetEstablishments,State inspection portal,Pending
+Missouri,MO,HTML_TABLE,https://health.mo.gov/safety/foodsafety/inspections,MO DHSS portal,Pending
+Kentucky,KY,HTML_TABLE,https://foodsafety.ky.gov/Pages/Inspections.aspx,Cabinet for Health,Pending
+Tennessee,TN,CSV_DOWNLOAD,https://www.tn.gov/agriculture/farms-and-business/food-safety/inspections,TDA inspection data,Pending
+Georgia,GA,API,https://ga-core.saas.shea.com/restaurants,GA Dept of Public Health,Pending
+North Carolina,NC,CSV_DOWNLOAD,https://www.wakegov.com/departments-government/environmental-services/food-safety,County level NC,Pending
+Virginia,VA,HTML_TABLE,https://www.vdh.virginia.gov/environmental-health/food-safety-in-virginia,VDH food safety,Pending
+Pennsylvania,PA,HTML_TABLE,https://www.agriculture.pa.gov/foodsafety/Pages/default.aspx,PA Dept of Ag,Pending
+New York,NY,API,https://data.ny.gov/Health/Food-Service-Establishment-Last-Inspection/cnih-y5dw,NY Open Data API,Pending
+California,CA,API,https://ehservices.publichealth.lacounty.gov/rest/search,County level CA,Pending
+Washington,WA,CSV_DOWNLOAD,https://fortress.wa.gov/doh/eh/results/,WA DOH inspection results,Pending
+Colorado,CO,API,https://cdphe.colorado.gov/food-safety,CDPHE open data,Pending
