@@ -1,0 +1,3 @@
+Setting,Value,Notes
+Page_Spot_Population,60000,"One Own Page spot per this many people in a city, rounded up"
+Page_Spot_Max,10,"Most Own Page spots any one city can have"
