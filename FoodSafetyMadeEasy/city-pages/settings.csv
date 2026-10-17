@@ -4,11 +4,13 @@ site_url,https://foodsafetymadeeasy.com,No trailing slash
 contact_email,Info@FoodSafetyMadeEasy.com,
 contact_phone,(765) 273-3247,
 instructor_name,Gerald Miller,Shown in About your instructor
+instructor_heading,SafePrep Tools Created by,Section heading above the name
+instructor_heading_es,Herramientas SafePrep creadas por,Spanish heading
 instructor_credentials,ServSafe Certified Instructor and Registered Proctor,
 instructor_cert_number,7064304,
 instructor_years,20+,
-instructor_bio,"I've taught and proctored ServSafe for over 20 years, and I haven't had a student fail the exam in over 10 years of teaching. SafePrep and the Online Tutorial are built from that classroom experience.",English bio
-instructor_bio_es,"He enseñado y supervisado exámenes ServSafe por más de 20 años, y en más de 10 años de clases ningún estudiante mío ha reprobado el examen. SafePrep y el Tutorial en línea están hechos a partir de esa experiencia en el salón de clases.",Spanish bio
+instructor_bio,"I've taught and proctored ServSafe for over 20 years, and I haven't had a student fail the exam in over 10 years of teaching. I built the SafePrep app and the Online Tutorial so you can get that same classroom preparation at home, on your own schedule.",English bio
+instructor_bio_es,"He enseñado y supervisado exámenes ServSafe por más de 20 años, y en más de 10 años de clases ningún estudiante mío ha reprobado el examen. Creé la app SafePrep y el Tutorial en línea para que tengas esa misma preparación del salón de clases en casa, a tu ritmo.",Spanish bio
 servsafe_logo_url,,Leave blank until ServSafe approves the logo request
 trademark_line,ServSafe® is a registered trademark of the National Restaurant Association Educational Foundation.,Required attribution in every footer
 trademark_line_es,ServSafe® es una marca registrada de la National Restaurant Association Educational Foundation.,
@@ -21,7 +23,7 @@ hub_slug_pattern,servsafe-classes-{state_name},State hub page URL
 reserved_slugs,servsafe-classes-los-angeles|servsafe-online-exam-san-francisco|servsafe-classes-carmel|servsafe-classes-fishers|servsafe-classes-noblesville|servsafe-classes-westfield,Hand-built WordPress pages the generator must never overwrite
 default_radius_miles,25,Proctor search radius when a city row leaves radius blank
 min_proctors_to_index,5,Below this many proctors in range the page is set to noindex
-show_instructor,Yes,About your instructor section
+show_instructor,Yes,"SafePrep Tools Created by section (creator credit, logo goes here)"
 show_partner,Yes,Featured partner card where a partner covers the city
 show_servsafe_direct,No,Buy-direct-from-ServSafe option
 show_spanish,No,Global Spanish switch; each city also needs build_es = Yes. Off until the Español redeem code is ready
