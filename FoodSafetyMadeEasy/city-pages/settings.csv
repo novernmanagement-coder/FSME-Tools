@@ -12,8 +12,8 @@ instructor_bio_es,"He enseñado y supervisado exámenes ServSafe por más de 20 
 servsafe_logo_url,,Leave blank until ServSafe approves the logo request
 trademark_line,ServSafe® is a registered trademark of the National Restaurant Association Educational Foundation.,Required attribution in every footer
 trademark_line_es,ServSafe® es una marca registrada de la National Restaurant Association Educational Foundation.,
-guarantee_note,"The money-back guarantee refunds the study portion only ($4.99 app or $49.99 tutorial). Exam fees can't be refunded.",
-guarantee_note_es,"La garantía de devolución reembolsa solo la parte de estudio ($4.99 la app o $49.99 el tutorial). Las cuotas del examen no son reembolsables.",
+guarantee_note,The money-back guarantee refunds the study portion only ($4.99 app or $49.99 tutorial). Exam fees can't be refunded.,
+guarantee_note_es,La garantía de devolución reembolsa solo la parte de estudio ($4.99 la app o $49.99 el tutorial). Las cuotas del examen no son reembolsables.,
 slug_pattern_manager,servsafe-classes-{city},Used when a city row has no slug; {city} = city name lowercased with dashes
 slug_pattern_manager_es,es/clases-servsafe-{city},Spanish page URL
 slug_pattern_food_handler,food-handler-card-{city},For page_type food-handler (later)
@@ -33,4 +33,18 @@ promo_text,,
 promo_text_es,,
 promo_start,,YYYY-MM-DD
 promo_end,,YYYY-MM-DD
-checkout_tracking_param,src,Added to every checkout link as ?src={slug} so Square shows which page sold
+require_verified_rules,Yes,Pages stay noindex until their state and county rules are marked rules_verified = Yes
+demo_video_app,https://youtu.be/2awHXR67kxU,Plays under the app package. Blank hides the button
+demo_video_tutorial,https://youtu.be/CTSQY5CldD0,Plays under the tutorial package. Blank hides the button
+guarantee_url,https://foodsafetymadeeasy.com/safeprep-guarantee/,
+find_proctor_url,https://foodsafetymadeeasy.com/find-a-proctor-or-instructor/,
+get_listed_url,https://foodsafetymadeeasy.com/get-listed/,
+product_app,FSME-P-005,English SafePrep app (catalog ID) for the how-to steps and closing buttons
+product_app_es,FSME-P-028,SafePrep Español (catalog ID)
+product_tutorial,FSME-P-048,Online Tutorial lifetime (catalog ID)
+product_servsafe_exam,FSME-A-021,"ServSafe direct online exam (catalog ID), used for price comparisons"
+partner_radius_default,50,"Miles, when a partner has no Partner_Radius"
+proctors_shown,12,Cards shown before the Show all button
+classes_days_ahead,45,How far ahead upcoming classes are listed
+cache_hours,12,How long the site keeps its copy of these files; Publish refreshes immediately
+directory_cache_hours,1,How long the site keeps its copy of the proctor directory
