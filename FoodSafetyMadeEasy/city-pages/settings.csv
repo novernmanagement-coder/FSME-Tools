@@ -1,1 +1,36 @@
-
+key,value,notes
+site_name,Food Safety Made Easy,Brand name used in titles and footer
+site_url,https://foodsafetymadeeasy.com,No trailing slash
+contact_email,Info@FoodSafetyMadeEasy.com,
+contact_phone,(765) 273-3247,
+instructor_name,Gerald Miller,Shown in About your instructor
+instructor_credentials,ServSafe Certified Instructor and Registered Proctor,
+instructor_cert_number,7064304,
+instructor_years,20+,
+instructor_bio,"I've taught and proctored ServSafe for over 20 years, and I haven't had a student fail the exam in over 10 years of teaching. SafePrep and the Online Tutorial are built from that classroom experience.",English bio
+instructor_bio_es,"He enseñado y supervisado exámenes ServSafe por más de 20 años, y en más de 10 años de clases ningún estudiante mío ha reprobado el examen. SafePrep y el Tutorial en línea están hechos a partir de esa experiencia en el salón de clases.",Spanish bio
+servsafe_logo_url,,Leave blank until ServSafe approves the logo request
+trademark_line,ServSafe® is a registered trademark of the National Restaurant Association Educational Foundation.,Required attribution in every footer
+trademark_line_es,ServSafe® es una marca registrada de la National Restaurant Association Educational Foundation.,
+guarantee_note,"The money-back guarantee refunds the study portion only ($4.99 app or $49.99 tutorial). Exam fees can't be refunded.",
+guarantee_note_es,"La garantía de devolución reembolsa solo la parte de estudio ($4.99 la app o $49.99 el tutorial). Las cuotas del examen no son reembolsables.",
+slug_pattern_manager,servsafe-classes-{city},Used when a city row has no slug; {city} = city name lowercased with dashes
+slug_pattern_manager_es,es/clases-servsafe-{city},Spanish page URL
+slug_pattern_food_handler,food-handler-card-{city},For page_type food-handler (later)
+hub_slug_pattern,servsafe-classes-{state_name},State hub page URL
+reserved_slugs,servsafe-classes-los-angeles|servsafe-online-exam-san-francisco|servsafe-classes-carmel|servsafe-classes-fishers|servsafe-classes-noblesville|servsafe-classes-westfield,Hand-built WordPress pages the generator must never overwrite
+default_radius_miles,25,Proctor search radius when a city row leaves radius blank
+min_proctors_to_index,5,Below this many proctors in range the page is set to noindex
+show_instructor,Yes,About your instructor section
+show_partner,Yes,Featured partner card where a partner covers the city
+show_servsafe_direct,No,Buy-direct-from-ServSafe option
+show_spanish,No,Global Spanish switch; each city also needs build_es = Yes. Off until the Español redeem code is ready
+show_classes,Yes,Upcoming classes pulled from the directory
+show_nearby_cities,Yes,Links to the closest city pages
+nearby_cities_count,5,
+show_promo_banner,No,Seasonal banner
+promo_text,,
+promo_text_es,,
+promo_start,,YYYY-MM-DD
+promo_end,,YYYY-MM-DD
+checkout_tracking_param,src,Added to every checkout link as ?src={slug} so Square shows which page sold
