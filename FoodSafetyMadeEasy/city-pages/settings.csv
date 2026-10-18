@@ -14,7 +14,7 @@ instructor_bio_es,"He enseñado y supervisado exámenes ServSafe por más de 20 
 servsafe_logo_url,,Leave blank until ServSafe approves the logo request
 trademark_line,ServSafe® is a registered trademark of the National Restaurant Association Educational Foundation.,Required attribution in every footer
 trademark_line_es,ServSafe® es una marca registrada de la National Restaurant Association Educational Foundation.,
-guarantee_note,The money-back guarantee refunds the study portion only ($4.99 app or $49.99 tutorial). Exam fees can't be refunded.,
+guarantee_note,The money-back guarantee refunds the study portion only ($19.99 app or $49.99 tutorial). Exam fees can't be refunded.,
 guarantee_note_es,La garantía de devolución reembolsa solo la parte de estudio ($4.99 la app o $49.99 el tutorial). Las cuotas del examen no son reembolsables.,
 slug_pattern_manager,servsafe-classes-{city},Used when a city row has no slug; {city} = city name lowercased with dashes
 slug_pattern_manager_es,es/clases-servsafe-{city},Spanish page URL
