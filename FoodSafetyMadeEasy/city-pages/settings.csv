@@ -26,6 +26,9 @@ min_proctors_to_index,5,Below this many proctors in range the page is set to noi
 show_instructor,Yes,"SafePrep Tools Created by section (creator credit, logo goes here)"
 show_partner,Yes,Featured partner card where a partner covers the city
 show_servsafe_direct,No,Buy-direct-from-ServSafe option
+show_comparison,Yes,"How We Compare table under the packages. A city row can set show_comparison = No"
+compare_servsafe_price,$179,ServSafe online course + exam price shown in the comparison table
+compare_classroom_price,$150–$230,Typical classroom class + exam price shown in the comparison table
 show_spanish,No,Global Spanish switch; each city also needs build_es = Yes. Off until the Español redeem code is ready
 show_classes,Yes,Upcoming classes pulled from the directory
 show_nearby_cities,Yes,Links to the closest city pages
