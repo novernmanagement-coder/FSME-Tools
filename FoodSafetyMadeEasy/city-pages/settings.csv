@@ -11,7 +11,7 @@ instructor_cert_number,7064304,
 instructor_years,20+,
 instructor_bio,"I've taught and proctored ServSafe for over 20 years, and I haven't had a student fail the exam in over 10 years of teaching. I built the SafePrep app and the Online Tutorial so you can get that same classroom preparation at home, on your own schedule.",English bio
 instructor_bio_es,"He enseñado y supervisado exámenes ServSafe por más de 20 años, y en más de 10 años de clases ningún estudiante mío ha reprobado el examen. Creé la app SafePrep y el Tutorial en línea para que tengas esa misma preparación del salón de clases en casa, a tu ritmo.",Spanish bio
-servsafe_logo_url,,Leave blank until ServSafe approves the logo request
+servsafe_logo_url,https://foodsafetymadeeasy.com/wp-content/uploads/2026/10/ServSafe-ProctInst_rgb.png,Leave blank until ServSafe approves the logo request
 trademark_line,ServSafe® is a registered trademark of the National Restaurant Association Educational Foundation.,Required attribution in every footer
 trademark_line_es,ServSafe® es una marca registrada de la National Restaurant Association Educational Foundation.,
 guarantee_note,The money-back guarantee refunds the study portion only ($19.99 app or $49.99 tutorial). Exam fees can't be refunded.,
@@ -26,7 +26,7 @@ min_proctors_to_index,5,Below this many proctors in range the page is set to noi
 show_instructor,Yes,"SafePrep Tools Created by section (creator credit, logo goes here)"
 show_partner,Yes,Featured partner card where a partner covers the city
 show_servsafe_direct,No,Buy-direct-from-ServSafe option
-show_comparison,Yes,"How We Compare table under the packages. A city row can set show_comparison = No"
+show_comparison,Yes,How We Compare table under the packages. A city row can set show_comparison = No
 compare_servsafe_price,$179,ServSafe online course + exam price shown in the comparison table
 compare_classroom_price,$150–$230,Typical classroom class + exam price shown in the comparison table
 show_spanish,No,Global Spanish switch; each city also needs build_es = Yes. Off until the Español redeem code is ready
