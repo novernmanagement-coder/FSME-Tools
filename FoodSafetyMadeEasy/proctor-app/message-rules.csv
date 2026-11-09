@@ -7,3 +7,6 @@ MSG-005,No,Verified,blank,Day 2,Listing has no trust badge,Verified,Add your cer
 MSG-006,No,Preferred_Listing,blank,Week 3,Listing not at top of local results,Preferred,Get to the top of results in {City},Preferred,No,
 MSG-007,No,Classes,class date passed,Day after,Expired classes make the listing look stale,Add new dates,{n} classes expired. Add new dates,My Classes,Activity,
 MSG-008,No,Page_Area,featured spot opens in nearby city,When it opens,Missing local student traffic,FSME's Online-Classes Site,{City} has an open featured spot,FSME's Online-Classes Site,No,Nearby = within service range
+MSG-009,No,Zip,rank 1-3 for a Find a Proctor search from their own main ZIP,Monthly,None (good news builds trust),Keep listing current,You're #{rank} in Find a Proctor for {City},My Profile,No,Rank = position in results searched from their main Zip
+MSG-010,No,Zip,rank improved since last check (main ZIP search),When it changes,None (good news),Keep listing current,You moved up to #{rank} in {City},My Profile,Activity,Rank = position in results searched from their main Zip
+MSG-011,No,Preferred_Listing,blank and rank 4+ from main ZIP search,Monthly,Other instructors show above them,Preferred,{n} instructors show above you in {City}. Preferred puts you first,Preferred,No,Never show the raw rank when it's 4 or lower
