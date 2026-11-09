@@ -6,4 +6,4 @@ MSG-004,No,Offers_Classes,No (exam only),Week 2,Only earning from exams,Class Cu
 MSG-005,No,Verified,blank,Day 2,Listing has no trust badge,Verified,Add your certificate number for the Verified badge,Verified,No,
 MSG-006,No,Preferred_Listing,blank,Week 3,Listing not at top of local results,Preferred,Get to the top of results in {City},Preferred,No,
 MSG-007,No,Classes,class date passed,Day after,Expired classes make the listing look stale,Add new dates,{n} classes expired. Add new dates,My Classes,Activity,
-MSG-008,No,Page_Area,featured spot opens in nearby city,When it opens,Missing local student traffic,FSME's Online-Classes Site,{City} has an open featured spot,FSME's Online-Classes Site,Offers,Nearby = within service range
+MSG-008,No,Page_Area,featured spot opens in nearby city,When it opens,Missing local student traffic,FSME's Online-Classes Site,{City} has an open featured spot,FSME's Online-Classes Site,No,Nearby = within service range
